@@ -1,0 +1,2232 @@
+@media screen and (max-width: 1600px){
+    
+    /* HEADER */
+    .logo,
+    .protection{
+        left: 217px;
+    }
+    .quality{
+        left: 31%;
+    }
+    .sсhedule{
+        left: 34%;
+    }
+    #user{
+        left: 940px;
+    }
+    #cabinet{
+        left: 59.8%;
+    }
+    #email{
+        left: 70%;
+    }
+    .facebookHeader{
+        left: 67%;
+    }
+    .phone{
+        left: 68.5%;
+    }
+    .phoneNumber{
+        left: 70%;
+    }
+    .ellipse{
+        left: 1250px;
+    }
+    #shoppingCart{
+        left: 82.5%;
+    }
+    #shoppingCircle{
+        left: 85%;
+    }
+    .positionMorePhones{
+        left: 1063px;
+    }
+    
+    /* MAIN */  
+    #idshellCallMe,
+    #idshellCallMe_2{
+        left: 1350px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 620px;
+    }
+    #textAboutUs{
+        left: 215px;
+    }
+    .showAllNews{
+        left: 700px;
+    }
+
+    /* FOOTER */
+    .scheduleFooter{
+        left: 31%;
+    }
+    .mainFooter,
+    .productsFooter,
+    .shippingFooter{
+        left: 820px;
+    }
+    .newsFooter,
+    .baceFooter,
+    .aboutUsFooter{
+        left: 982px;
+    }
+    .facebookFooter{
+        left: 1070px;
+    }
+    .contactsFooter{
+        left: 1205px;
+    }
+    #glyanecLogo{
+        left: 1075px;
+    }
+    #glyanecName{
+        left: 1095px;
+    }
+    .positionMorePhones_2{
+        left: 1062px;
+    }
+}
+@media screen and (max-width: 1440px){
+    
+    /* HEADER */
+    .logo,
+    .protection{
+        left: 135px;
+    }
+    .quality{
+        left: 29%;
+    }
+    .sсhedule{
+        left: 32.5%;
+    }
+    #user{
+        left: 840px;
+    }
+    #email{
+        left: 70%;
+    }
+    .facebookHeader{
+        left: 68%;
+    }
+    .phone{
+        left: 70%;
+    }
+    .phoneNumber{
+        left: 72%;
+    }
+    .ellipse{
+        left: 1165px;
+    }
+    .chevron{
+        margin-top: 5px;
+    }
+    #shoppingCart{
+        left: 84%;
+    }
+    #shoppingCircle{
+        left: 86.5%;
+    }
+    .positionMorePhones{
+        left: 978px;
+    }
+
+    /* MAIN */
+    #idshellCallMe,
+    #idshellCallMe_2{
+        left: 1200px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 535px;
+    }
+    #textAboutUs{
+        left: 127px;
+    }
+    .showAllNews{
+        left: 618px;
+    }
+
+    /* FOOTER */
+    .scheduleFooter{
+        left: 29%;
+    }
+    .mainFooter,
+    .productsFooter,
+    .shippingFooter{
+        left: 740px;
+    }
+    .newsFooter,
+    .baceFooter,
+    .aboutUsFooter{
+        left: 882px;
+    }
+    .facebookFooter{
+        left: 970px;
+    }
+    .contactsFooter{
+        left: 1122px;
+    }
+    #glyanecLogo{
+        left: 986px;
+    }
+    #glyanecName{
+        left: 1005px;
+    }
+    .positionMorePhones_2{
+        left: 977px;
+    }
+}
+@media screen and (max-width: 1366px){
+    
+    /* HEADER */
+    .logo,
+    .protection{
+        left: 105px;
+    }
+    #user{
+        left: 830px;
+    }
+    #cabinet{
+        left: 62.25%;
+    }
+    #email{
+        left: 72.5%;
+    }
+    .facebookHeader{
+        left: 71.5%;
+    }
+    .phone{
+        left: 73.5%;
+    }
+    .phoneNumber{
+        left: 75%;
+    }
+    #shoppingCart{
+        left: 87%;
+    }
+    .ellipse{
+        left: 1150px;
+    }
+    #shoppingCircle{
+        left: 90%;
+    }
+    .positionMorePhones,
+    .positionMorePhones_2{
+        left: 963px;
+    }
+
+    /* MAIN */
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 505px;
+    }
+    #textAboutUs{
+        left: 92px;
+    }
+    .showAllNews{
+        left: 578px;
+    }
+
+    /* FOOTER */
+    .mainFooter,
+    .productsFooter,
+    .shippingFooter{
+        left: 710px;
+    }
+    .newsFooter,
+    .baceFooter,
+    .aboutUsFooter{
+        left: 862px;
+    }
+}
+@media screen and (max-width: 1349px){
+    
+    /* HEADER */
+    #user{
+        left: 810px;
+    }
+    .ellipse{
+        left: 1140px;
+    }
+    .positionMorePhones,
+    .positionMorePhones_2{
+        left: 953px;
+    }
+
+    /* MAIN */
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 495px;
+    }
+
+    /* FOOTER */
+    .contactsFooter{
+        left: 1100px;
+    }
+    #glyanecLogo{
+        left: 965px;
+    }
+    #glyanecName{
+        left: 983px;
+    }
+}
+@media screen and (max-width: 1280px){
+    
+    /* HEADER */
+    .logo,
+    .protection{
+        left: 70px;
+    }
+    .quality{
+        left: 26%;
+    }
+    .sсhedule{
+        left: 30%;
+    }
+    #user{
+        left: 740px;
+    }
+    #cabinet{
+        left: 60%;
+    }
+    #email{
+        left: 72%;
+    }
+    .facebookHeader{
+        left: 70.5%;
+    }
+    .phone{
+        left: 72.5%;
+    }
+    .phoneNumber{
+        left: 74.5%;
+    }
+    .ellipse{
+        left: 1070px;
+    }
+    #shoppingCart{
+        left: 87%;
+    }
+    #shoppingCircle{
+        left: 90%;
+    }
+    .positionMorePhones,
+    .positionMorePhones_2{
+        left: 923px;
+    }
+
+    /* MAIN */
+    #idshellCallMe,
+    #idshellCallMe_2{
+        left: 1100px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 457px;
+    }
+    #textAboutUs{
+        left: 48px;
+    }
+    .showAllNews{
+        left: 537px;
+    }
+
+    /* FOOTER */
+    .scheduleFooter{
+        left: 26%;
+    }
+    .mainFooter,
+    .productsFooter,
+    .shippingFooter{
+        left: 635px;
+    }
+    .newsFooter,
+    .baceFooter,
+    .aboutUsFooter{
+        left: 780px;
+    }
+    .facebookFooter{
+        left: 890px;
+    }
+    .contactsFooter{
+        left: 1027px;
+    }
+    #glyanecLogo{
+        left: 888px;
+    }
+    #glyanecName{
+        left: 908px;
+    }
+}
+@media screen and (max-width: 1024px){
+    
+    /* HEADER */
+    #topHeader{
+        height: 86px;
+        -webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.05);
+                box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.05);
+    }
+    #header{
+        height: 123px;
+    }
+    .logo{
+        width: 185px;
+        height: 57px;
+        left: 20px;
+    }
+    .cmyk{
+        width: 47px;
+        height: 42px;
+    }
+    .printe{
+        font-size: 35px;
+    }
+    .yourTypography{
+        font-size: 11px;
+    }
+    h3{
+        font-size: 12px;
+    }
+    .quality{
+        width: 282px;
+        height: 30px;
+        left: 21.5%;
+    }
+    .regularText{
+        font-size: 12px;
+    }
+    .sсhedule{
+        width: 230px;
+        left: 24%;
+        top: 58px;
+    }
+    #user{
+        width: 14px;
+        height: 16px;
+        left: 530px;
+    }
+    #cabinet{
+        width: 97px;
+        left: 53.5%;
+    }
+    #email{
+        width: 150px;
+        left: 70%;
+    }
+    .facebook{
+        width: 19px;
+        height: 28px;
+    }
+    .facebookHeader{
+        left: 67.5%;
+        top: 50px;
+    }
+    .phone{
+        width: 19.89px;
+        height: 19.93px;
+        left: 70.5%;
+        top: 55px;
+    }
+    .phoneNumber{
+        width: 100px;
+        height: 19px;
+        left: 72%;
+        top: 57px;
+    }
+    .ellipse{
+        left: 848px;
+        top: 54px;
+    }
+    .chevron{
+        margin-top: 5px;
+    }
+    #shoppingCart{
+        width: 60px;
+        height: 46px;
+        top: 28px;
+        left: 85.7%;
+    }
+    #shoppingCircle{
+        width: 27px;
+        height: 27px;
+        left: 89.7%;
+        top: 25%;
+    }
+    .morePhones{
+        -webkit-box-shadow: 0px 2px 22.5px rgba(0, 0, 0, 0.15);
+                box-shadow: 0px 2px 22.5px rgba(0, 0, 0, 0.15);
+        width: 170px;
+        height: 145px;
+    }
+    .positionMorePhones{
+        left: 708px;
+        top: 86px;
+    }
+    .positionRhombus{
+        left: 135px;
+        bottom: 120px;
+    }
+    #bottomHeader{
+        height: 37px;
+    }
+    .button{
+        font-size: 12px;
+        padding:  13px 0px 15px 0px;
+    }
+    .line{
+        padding: 0px 20px 0px 20px;
+    }
+    .search{
+        padding: 10px 20px 18px 20px;
+    }
+    .searchIcon{
+        width: 20px;
+        height: 20px;
+    }
+    
+    /* MAIN */
+    #idshellCallMe{
+        left: 900px;
+        top: 435px;
+    }
+    #idshellCallMe_2{
+        left: 900px;
+        top: 1195px;
+    }
+    .shellCallMe{
+        width: 78px;
+        height: 78px;
+        -webkit-box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.05);
+                box-shadow: 0px 2px 7px rgba(0, 0, 0, 0.05);
+    }
+    .iconCallMe{
+        width: 19px;
+        height: 19px;
+        left: 31px;
+        top: 15px;
+    }
+    .nameCallMe{
+        width: 74px;
+        height: 22px;
+        left: 2px;
+        top: 36px;
+        font-size: 10px;
+    }
+    #shipping{
+        height: 350px;
+    }
+    #operationalPrinting{
+        font-size: 37px;
+        width: 800px;
+        height: 50px;
+    }
+    #lineInShipping{
+        width: 100px;
+        border: 1px solid #FFFFFF;
+    }
+    #delivery{
+        font-size: 20px;
+        width: 379px;
+        height: 28px;
+    }
+    #orderButton{
+        width: 140px;
+        height: 38px;
+    }
+    #nameOfOrderButton{
+        width: 100px;
+        height: 18px;
+        top: 12px;
+        left: 20px;
+    }
+    #products{
+        height: 280px;
+    }
+    .nameBlocks{
+        width: 150px;
+        height: 40px;
+        font-size: 24px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 435px;
+        top: 15px;
+    }
+    .contentProducts{
+        width: 270px;
+        height: 191px;
+        margin-right: 15px;
+        margin-top: 70px;
+    }
+    .logoProducts{
+        width: 30px;
+        height: 30px;
+        top: 10px;
+        left: 10px;
+    }
+    .nameContentProducts{
+        top: 10px;
+        left: 60px;
+    }
+    li{
+        font-size: 13px;
+        margin-bottom: 10px;
+    }
+    .itemProducts{
+        top: 35px;
+        left: 60px;
+    }
+    .officeItem{
+        width: 120px;
+        height: 150px;
+    }
+    .advertisingItem{
+        width: 70px;
+        height: 120px;
+    }
+    .advertisingItem_2{
+        width: 96px;
+        height: 161px;
+        top: 35px;
+        left: 156px;
+    }
+    .businessItem{
+        width: 170px;
+        height: 120px;
+    }
+    #aboutUs{
+        height: 200px;
+        border-bottom: 2px solid #E8EDF2;
+    }
+    #textAboutUs{
+        width: 850px;
+        height: 100px;
+        left: 88px;
+        top: 80px;
+        font-size: 12px;
+    }
+    #news{
+        height: 280px;
+    }
+    .newsItem{
+        width: 298px;
+        height: 150px;
+        margin-top: 70px;
+    }
+    .date{
+        width: 110px;
+        height: 17px;
+        top: 29px;
+        left: 95px;
+    }
+    .textNews{
+        width: 240px;
+        height: 59px;
+        top: 70px;
+        left: 29px;
+    }
+    .showAllNews{
+        width: 160px;
+        height: 32px;
+        left: 435px;
+        top: 230px;
+    }
+
+    /* FOOTER */
+    #footer{
+        height: 120px;
+    }
+    .protection{
+        width: 190px;
+        left: 20px;
+        top: 90px;
+    }
+    .scheduleFooter{
+        left: 21.5%;
+    }
+    .menuFooter{
+        font-size: 12px;
+        line-height: 16px;
+    }
+    .mainFooter,
+    .productsFooter,
+    .shippingFooter{
+        left: 490px;
+    }
+    .mainFooter,
+    .newsFooter{
+        top: 20px;
+    }
+    .productsFooter,
+    .baceFooter{
+        top: 40px;
+    }
+    .shippingFooter,
+    .aboutUsFooter{
+        top: 60px;
+    }
+    .newsFooter,
+    .baceFooter,
+    .aboutUsFooter{
+        left: 620px;
+    }
+    .phoneFooter,
+    .phoneNumberFooter{
+        top: 20px;
+    }
+    .facebookFooter{
+        left: 700px;
+        top: 15px;
+    }
+    .ellipseFooter{
+        top: 17px;
+    }
+    .contactsFooter{
+        left: 815px;
+        top: 40px;
+    }
+    #glyanecLogo{
+        top: 98px;
+        left: 670px;
+    }
+    #glyanecName{
+        left: 690px;
+        top: 100px;
+    }
+    .positionMorePhones_2{
+        bottom: 117px;
+        left: 710px;
+    }
+    .positionRhombus_2{
+        top: 125px;
+        left: 134px;
+    }
+}
+@media screen and (max-width: 812px){
+    
+    /* HEADER */
+    .logo{
+        left: 40px;
+    }
+    .quality{
+        display: none;
+    }
+    .sсhedule{
+        left: 31%;
+        top: 20px;
+    }
+    #user{
+        left: 250px;
+        top: 50px;
+    }
+    #cabinet{
+        left: 33%;
+        top: 50px;
+    }
+    .regularText{
+        font-size: 12px;
+    }
+    #email{
+        left: 63%;
+    }
+    .facebookHeader{
+        left: 62.5%;
+    }
+    .phone{
+        left: 65.5%;
+    }
+    .phoneNumber{
+        left: 66.3%;
+        top: 57px;
+    }
+    .ellipse{
+        width: 18px;
+        height: 18px;
+        left: 646px;
+        top: 54px;
+    }
+    .chevron{
+        width: 18px;
+        height: 9px;
+    }
+    #shoppingCart{
+        width: 58px;
+        height: 44px;
+    }
+    #shoppingCircle{
+        width: 25px;
+        height: 25px;
+        left: 90.5%;
+    }
+    #shoppingNumber{
+        top: 5px;
+        left: 9.5px;
+    }   
+    .morePhones{
+        width: 179px;
+        height: 137px;
+    }
+    .positionMorePhones{
+        left: 493px;
+    }
+    .positionRhombus{
+        bottom: 115px;
+        left: 82%;
+    }
+    .button{
+        font-size: 10px;
+        padding:  11px 0px 13px 0px;
+    }
+    .line{
+        padding: 0px 15px 0px 15px;
+    }
+    .search{
+        padding: 8px 15px 16px 15px;
+    }
+    .searchIcon{
+        width: 15px;
+        height: 15px;
+    }
+    
+    /* MAIN */
+    #idshellCallMe,
+    #idshellCallMe_2{
+        left: 695px;
+    }
+    #idshellCallMe_2{
+        top: 1200px;
+    }
+    .shellCallMe{
+        width: 68px;
+        height: 68px;
+        -webkit-box-shadow: 0px 1px 3.5px rgba(0, 0, 0, 0.05);
+                box-shadow: 0px 1px 3.5px rgba(0, 0, 0, 0.05);
+    }
+    .iconCallMe{
+        left: 26px;
+        top: 10px;
+    }
+    .nameCallMe{
+        width: 64px;
+        top: 32px;
+        font-size: 9px;
+    }
+    #operationalPrinting{
+        font-size: 30px;
+        width: 700px;
+        height: 45px;
+    }
+    #nameOfOrderButton{
+        left: 21px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 333px;
+    }
+    .contentProducts{
+        width: 240px;
+        height: 181px;
+    }
+    .logoProducts{
+        width: 30px;
+        height: 30px;
+        top: 10px;
+        left: 10px;
+    }
+    #textAboutUs{
+        width: 700px;
+        left: 50px;
+        top: 70px;
+    }
+    .newsItem{
+        width: 258px;
+        height: 130px;
+    }
+    .date{
+        top: 27px;
+        left: 75px;
+    }
+    .textNews{
+        top: 60px;
+        left: 9px;
+    }
+    .showAllNews{
+        left: 325px;
+        top: 220px;
+    }
+
+    /* FOOTER */
+    .protection{
+        left: 40px;
+    }
+    .mainFooter,
+    .productsFooter,
+    .shippingFooter{
+        left: 248px;
+    }
+    .mainFooter,
+    .newsFooter{
+        top: 40px;
+    }
+    .productsFooter,
+    .baceFooter{
+        top: 60px;
+    }
+    .shippingFooter,
+    .aboutUsFooter{
+        top: 80px;
+    }
+    .newsFooter,
+    .baceFooter,
+    .aboutUsFooter{
+        left: 370px;
+    }
+    .facebookFooter{
+        left: 500px;
+    }
+    .contactsFooter{
+        left: 610px;
+        top: 60px;
+    }
+    .phoneNumberFooter{
+        top: 21px;
+    }
+    .ellipseFooter{
+        top: 19px;
+    }
+    #glyanecLogo{
+        top: 88px;
+        left: 465px;
+    }
+    #glyanecName{
+        left: 485px;
+        top: 90px;
+    }
+    .positionMorePhones_2{
+        left: 495px;
+    }
+    .positionRhombus_2{
+        top: 115px;
+        left: 146px;
+    }
+}
+@media screen and (max-width: 800px){
+    
+    /* HEADER */
+    #user{
+        left: 235px;
+    }
+    #cabinet{
+        left: 33%;
+    }
+    .ellipse{
+        left: 636px;
+    }
+    .positionMorePhones{
+        left: 483px;
+    }
+    
+    /* MAIN */
+    #idshellCallMe,
+    #idshellCallMe_2{
+        left: 695px;
+    }
+    #idshellCallMe_2{
+        top: 1200px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 325px;
+    }
+    #textAboutUs{
+        left: 50px;
+    }
+    .showAllNews{
+        left: 320px;
+    }
+
+    /* FOOTER */
+    .mainFooter,
+    .productsFooter,
+    .shippingFooter{
+        left: 248px;
+    }
+    .newsFooter,
+    .baceFooter,
+    .aboutUsFooter{
+        left: 370px;
+    }
+    .facebookFooter{
+        left: 500px;
+    }
+    .contactsFooter{
+        left: 600px;
+    }
+    #glyanecLogo{
+        left: 455px;
+    }
+    #glyanecName{
+        left: 475px;
+    }
+    .positionMorePhones_2{
+        left: 485px;
+    }
+    .positionRhombus_2{
+        left: 146px;
+    }
+}
+@media screen and (max-width: 768px){
+    
+    /* HEADER */
+    .ellipse{
+        left: 616px;
+    }
+    
+    /* MAIN */
+    #idshellCallMe,
+    #idshellCallMe_2{
+        left: 675px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 312px;
+    }
+    #textAboutUs{
+        left: 35px;
+    }
+    .newsItem{
+        width: 248px;
+    }
+    .date{
+        left: 72px;
+    }
+    .textNews{
+        left: 6px;
+    }
+    .showAllNews{
+        left: 306px;
+    }
+    .positionMorePhones{
+        left : 464px;
+    }
+
+    /* FOOTER */
+    .facebookFooter{
+        left: 495px;
+    }
+    .phoneNumberFooter{
+        left: 527px;
+    }
+    .phoneFooter{
+        left: 518px;
+    }
+    .ellipseFooter{
+        left: 632px;
+    }
+    .positionMorePhones_2{
+        left: 481px;
+    }
+    #vodafoneLogo_2{
+        top: 20px;
+    }
+    #vodafone_2{
+        top: 22px;
+    }
+    #kyivstarLogo_2{
+        top: 55px;
+    }
+    #kyivstar_2{
+        top: 60px;
+    }
+    #lifecellLogo_2{
+        top: 92px;
+    }
+    #lifecell_2{
+        top: 95px;
+    }
+}
+@media screen and (max-width: 736px){
+    
+    /* HEADER */
+    .ellipse{
+        left: 600px;
+    }
+    #user{
+        left: 228px;
+    }
+    .positionMorePhones{
+        left: 449px;
+    }
+    /* MAIN */
+    #idshellCallMe,
+    #idshellCallMe_2{
+        left: 655px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 297px;
+    }
+    #textAboutUs{
+        left: 17px;
+    }
+    .showAllNews{
+        left: 293px;
+    }
+
+    /* FOOTER */
+    .ellipseFooter{
+        left: 632px;
+    }
+}
+@media screen and (max-width: 667px){
+    
+    /* HEADER */
+    #header{
+        height: 103px;
+    }
+    #topHeader{
+        height: 76px;
+        -webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+                box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+    }
+    .logo{
+        left: 20px;
+    }
+    .ellipse{
+        left: 520px;
+        top: 45px;
+    }
+    .sсhedule{
+        width: 120px;
+        height: 30px;
+        left: 32.5%;
+        top: 15px;
+    }
+    #user{
+        left: 215px;
+    }
+    #cabinet{
+        left: 36%;
+    }
+    #email{
+        left: 58%;
+        top: 15px;
+    }
+    .facebookHeader{
+        left: 56.5%;
+        top: 42px;
+    }
+    .phone{
+        left: 60.5%;
+        top: 46px;
+    }
+    .phoneNumber{
+        left: 62%;
+        top: 47px;
+    }
+    #shoppingCart{
+        width: 54px;
+        height: 40px;
+        top: 25px;
+        left: 84%;
+    }
+    #shoppingCircle{
+        width: 20px;
+        height: 20px;
+        left: 89.5%;
+    }
+    #shoppingNumber{
+        top: 3px;
+        left: 6.5px;
+    }
+    #bottomHeader{
+        height: 27px;
+    }   
+    .button{
+        font-size: 9px;
+        padding:  8px 0px 10px 0px;
+    }
+    .line{
+        padding: 0px 10px 0px 10px;
+    }
+    .search{
+        padding: 6px 13px 14px 13px;
+    }
+    .searchIcon{
+        width: 13px;
+        height: 13px;
+    }
+    .morePhones{
+        width: 159px;
+        height: 117px;
+    }
+    .positionRhombus{
+        bottom: 95px;
+        left: 79%;
+    }
+    .positionMorePhones{
+        left: 389px;
+        top: 76px;
+    }
+    /* MAIN */
+    #idshellCallMe,
+    #idshellCallMe_2{
+        left: 540px;
+    }
+    #idshellCallMe{
+        top: 318px;       
+    }
+    #idshellCallMe_2{
+        top: 960px;
+    }
+    #shipping{
+        height: 250px;
+    }
+    #operationalPrinting{
+        font-size: 25px;
+        width: 550px;
+        height: 40px;
+    }
+    #delivery{
+        font-size: 18px;
+        width: 300px;
+        height: 26px;
+    }
+    #orderButton{
+        width: 120px;
+        height: 34px;
+    }
+    #nameOfOrderButton{
+        width: 90px;
+        height: 16px;
+        top: 10px;
+        left: 16px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 274px;
+        top: 10px;
+    }
+    #products{
+        height: 240px;
+    }
+    .nameBlocks{
+        width: 120px;
+        height: 30px;
+        font-size: 22px;
+    }
+    .contentProducts{
+        width: 200px;
+        margin-right: 10px;
+        margin-top: 50px;
+    }
+    .logoProducts{
+        width: 25px;
+        height: 25px;
+        top: 8px;
+        left: 8px;
+    }
+    .nameContentProducts{
+        top: 8px;
+        left: 40px;
+    }
+    li{
+        font-size: 12px;
+        margin-bottom: 8px;
+    }
+    .itemProducts{
+        top: 35px;
+        left: 40px;
+    }
+    .officeItem{
+        height: 130px;
+    }
+    .advertisingItem{
+        height: 110px;
+    }
+    .advertisingItem_2{
+        width: 70px;
+        height: 80px;
+        left: 126px;
+    }
+    .businessItem{
+        width: 130px;
+        height: 110px;
+    }
+    #aboutUs{
+        height: 172px;
+    }
+    #textAboutUs{
+        width: 630px;
+        left: 18px;
+        top: 55px;
+    }
+    #news{
+        height: 230px;
+    }
+    .newsItem{
+        width: 210px;
+        margin-top: 50px;
+    }
+    .date{
+        left: 52px;
+    }
+    .textNews{
+        width: 200px;
+        height: 40px;
+        font-size: 10px;
+        left: 5px;
+    }
+    .showAllNews{
+        left: 253px;
+        top: 185px;
+    }
+
+    /* FOOTER */
+    #footer{
+        height: 105px;
+    }
+    .protection{
+        left: 20px;
+        top: 70px;
+    }
+    .mainFooter,
+    .productsFooter,
+    .shippingFooter,
+    .baceFooter,
+    .aboutUsFooter,
+    .newsFooter{
+        display: none;
+    }
+    .facebookFooter{
+        left: 355px;
+    }
+    .contactsFooter{
+        left: 217px;
+        top: 60px;
+    }
+    .phoneNumberFooter{
+        left: 390px;
+        top: 21px;
+    }
+    .phoneFooter{
+        left: 380px;
+        top: 19px;
+    }
+    .ellipseFooter{
+        top: 18px;
+        left: 497px;
+    }
+    .positionMorePhones_2{
+        left: 367px;
+        bottom: 100px;
+    }
+    .positionRhombus_2{
+        top: 95px;
+        left: 125px;
+    }
+    #vodafoneLogo_2{
+        top: 10px;
+        left: 15px;
+    }
+    #vodafone_2{
+        top: 12px;
+        left: 50px;
+    }
+    #kyivstarLogo_2{
+        top: 45px;
+        left: 15px;
+    }
+    #kyivstar_2{
+        top: 50px;
+        left: 50px;
+    }
+    #lifecellLogo_2{
+        top: 82px;
+        left: 15px;
+    }
+    #lifecell_2{
+        top: 85px;
+        left: 50px;
+    }
+    #glyanecLogo{
+        top: 73px;
+        left: 346px;
+    }
+    #glyanecName{
+        font-size: 9px;
+        left: 366px;
+        top: 77px;
+    }
+}
+@media screen and (max-width: 640px){
+    
+    /* HEADER */
+    .ellipse{
+        left: 505px;
+    }
+    .sсhedule{
+        left: 34%;
+    }
+    .positionMorePhones{
+        left: 374px;
+    }
+    /* MAIN */
+    #textAboutUs{
+        width: 620px;
+        left: 10px;
+    }
+    .newsItem{
+        width: 210px;
+        margin-top: 50px;
+    }
+    .date{
+        left: 52px;
+    }
+    .textNews{
+        width: 200px;
+        height: 40px;
+        font-size: 10px;
+        left: 5px;
+    }
+    .showAllNews{
+        left: 241px;
+        top: 180px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 262px;
+    }
+    /* FOOTER */
+    .ellipseFooter{
+        left: 495px;
+    }
+    .positionMorePhones_2{
+        left: 364.5px;
+    }                                                      
+}
+@media screen and (max-width: 568px){
+    
+    /* HEADER */
+    #header{
+        height: 50px;
+    }
+    #topHeader{
+        height: inherit;
+        -webkit-box-shadow: none;
+                box-shadow: none;
+    }
+    #bottomHeader{
+        display: none;
+    }
+    .logo{
+        width: 145px;
+        height: 42px;
+        left: 45px;
+        top: 4px;
+    }
+    .cmyk{
+        width: 37px;
+        height: 32px;
+    }
+    .printe{
+        font-size: 27px;
+    }
+    .yourTypography{
+        top: 30px;
+        font-size: 10px;
+    }
+    #user{
+        display: none;
+    }
+    #cabinet{
+        display: none;
+    }
+    .regularText{
+        font-size: 9px;
+    }
+    .sсhedule{
+        width: 110px;
+        height: 25px;
+        top: 15px;
+        left: 205px;
+    }
+    #email{
+        display: none;
+    }
+    .facebook{
+        width: 17px;
+        height: 26px;
+    }
+    .facebookHeader{
+        top: 14px;
+        left: 340px;
+    }
+    .phone{
+        width: 16.89px;
+        height: 16.93px;
+        top: 18px;
+        left: 360px;
+    }
+    .phoneNumber{
+        top: 19px;
+    }
+    .ellipse{
+        left: 460px;
+        top: 15px;
+    }
+    #shoppingCart{
+        width: 32px;
+        height: 28px;
+        top: 15px;
+        left: 88%;
+    }
+    #shoppingCircle{
+        width: 16px;
+        height: 16px;
+        left: 91.5%;
+    }
+    #shoppingNumber{
+        top: 3px;
+        left: 6px;
+    }   
+    .positionMorePhones{
+        left: 356px;
+        top: 43px;
+    }
+    .morePhones{
+        width: 125px;
+        height: 85px;
+    }
+    .positionRhombus{
+        left: 86%;
+        bottom: 80px;
+    }
+    .rhombus{
+        width: 10px;
+        height: 10px;
+    }
+    .mobilePhone{
+        width: 90px;
+        height: 15px;
+    }
+    #vodafoneLogo,
+    #vodafoneLogo_2{
+        width: 15px;
+        height: 15px;
+        left: 10px;
+        top: 10px;
+    }
+    #vodafone,
+    #vodafone_2{
+        left: 30px;
+        top: 10px;
+    }
+    #kyivstarLogo,
+    #kyivstarLogo_2{
+        width: 15px;
+        height: 15px;
+        top: 35px;
+        left: 10px;
+    }
+    #kyivstar,
+    #kyivstar_2{
+        left: 30px;
+        top: 35px;
+    }
+    #lifecellLogo,
+    #lifecellLogo_2{
+        width: 15px;
+        height: 15px;
+        left: 10px;
+        top: 60px;
+    }
+    #lifecell,
+    #lifecell_2{
+        left: 30px;
+        top: 60px;
+    }
+    #menuIcon{
+        display: block;
+    }
+    /* MAIN */
+    #idshellCallMe,
+    #idshellCallMe_2{
+        display: none;
+    }
+    #shipping{
+        height: 160px;
+    }
+    #operationalPrinting{
+        font-size: 20px;
+        width: 480px;
+        height: 30px;
+    }
+    #delivery{
+        font-size: 16px;
+        width: 300px;
+        height: 26px;
+    }
+    #orderButton{
+        width: 100px;
+        height: 30px;
+        margin-top: 10px;
+    }
+    #nameOfOrderButton{
+        width: 80px;
+        height: 15px;
+        top: 9px;
+        left: 11px;
+    }
+    h3{
+        font-size: 10px;
+    }
+    #products{
+        height: 200px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 232px;
+        top: 10px;
+    }
+    .nameBlocks{
+        width: 110px;
+        height: 25px;
+        font-size: 20px;
+    }
+    .contentProducts{
+        width: 180px;
+        height: 125px;
+        margin-right: 8px;
+        margin-top: 45px;
+    }
+    .logoProducts{
+        width: 20px;
+        height: 20px;
+    }
+    li{
+        font-size: 9px;
+        margin-bottom: 5px;
+    }
+    .officeItem{
+        width: 100px;
+        height: 100px;
+        top: 25px;
+    }
+    .advertisingItem{
+        width: 55px;
+        height: 85px;
+        top: 25px;
+    }
+    .advertisingItem_2{
+        width: 50px;
+        height: 65px;
+        left: 106px;
+        top: 25px;
+    }
+    .businessItem{
+        width: 100px;
+        height: 100px;
+        top: 25px;
+    }
+    #aboutUs{
+        height: 160px;
+    }
+    #textAboutUs{
+        width: 550px;
+        left: 6px;
+        top: 45px;
+    }
+    #news{
+        height: 180px;
+    }
+    .newsItem{
+        width: 180px;
+        height: 70px;
+        margin-top: 40px;
+    }
+    .date{
+        width: 70px;
+        height: 10px;
+        top: 10px;
+        left: 57px;
+    }
+    .textNews{
+        width: 170px;
+        height: 40px;
+        top: 25px;
+        left: 5px;
+    }
+    .showAllNews{
+        width: 120px;
+        height: 25px;
+        left: 226px;
+        top: 135px;
+    }
+
+    /* FOOTER */
+    #footer{
+        height: 85px;
+    }
+    .protection{
+        left: 45px;
+        top: 55px;
+    }
+    .facebookFooter{
+        left: 380px;
+        top: 14px;
+    }
+    .contactsFooter{
+        left: 205px;
+        top: 45px;
+    }
+    .phoneFooter{
+        left: 400px;
+        top: 18px;
+    }
+    .ellipseFooter{
+        top: 15px;
+        left: 497px;
+    }
+    .positionMorePhones_2{
+        left: 391px;
+        bottom: 79px;
+    }
+    .positionRhombus_2{
+        top: 80px;
+        left: 110px;
+    }
+    #glyanecLogo{
+        top: 48px;
+        left: 347px;
+    }
+    #glyanecName{
+        top: 51px;
+        left: 367px;
+    }
+}
+@media screen and (max-width: 425px){
+    
+    /* HEADER */
+    .sсhedule{
+        width: 87px;
+        height: 30px;
+        left: 195px;
+        font-weight: 100;
+    }
+    .facebookHeader{
+        top: 20px;
+        left: 310px;
+    }
+    .phone{
+        display: none;
+    }
+    .phoneNumber{
+        top: 10px;
+    }
+    .ellipse{
+        width: 14px;
+        height: 14px;
+        left: 368px;
+        top: 8px;
+    }
+    .chevron{
+        width: 14px;
+        height: 10px;
+        margin-top: 2px;
+    }
+    #shoppingCart{
+        top: 10px;
+        left: 90%;
+    }
+    #shoppingCircle{
+        left: 95.5%;
+        top: 6px;
+    }
+    #shoppingNumber{
+        left: 5.5px;
+    }   
+    .positionMorePhones{
+        left: 262px;
+        top: 33px;
+    }
+    /* MAIN */
+    #shipping{
+        height: 140px;
+    }
+    #operationalPrinting{
+        font-size: 18px;
+        width: 400px;
+        height: 25px;
+    }
+    #delivery{
+        font-size: 14px;
+        width: 250px;
+        height: 20px;
+        margin-top: 10px;
+    }
+    #orderButton{
+        width: 90px;
+        height: 20px;
+        margin-top: 10px;
+    }
+    #nameOfOrderButton{
+        width: 75px;
+        height: 15px;
+        top: 5px;
+        left: 8px;
+    }
+    #products{
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+        height: 220px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 167px;
+        top: 5px;
+    }
+    .nameBlocks{
+        width: 80px;
+        height: 15px;
+        font-size: 12px;
+    }
+    .contentProducts{
+        width: 400px;
+        margin-top: 20px;
+        margin-right: 0;
+    }
+    li{
+        display: inline;
+        margin-bottom: 0;
+        padding-right: 5px;
+        border-right: 1px solid #E8EDF2;
+    }
+    li:last-child{
+        border-right: none;
+    }
+    .contentProducts:nth-child(3),
+    .contentProducts:nth-child(4){
+        margin-top: 5px;
+    }
+    .contentProducts:nth-child(2),
+    .contentProducts:nth-child(4){
+        height: 70px;
+    }
+    .contentProducts:nth-child(3){
+        height: 90px;
+    }
+    .officeItem,
+    .advertisingItem,
+    .businessItem,
+    .advertisingItem_2{
+        width: 350px;
+        height: 20px;
+        top: 20px;
+    }
+    .advertisingItem_2{
+        top: 35px;
+        left: 40px;
+    }
+    #aboutUs{
+        height: 110px;
+    }
+    #textAboutUs{
+        font-size: 9px;
+        width: 400px;
+        height: 80px;
+        top: 25px;
+        left: 12.25px;
+    }
+    #news{
+        height: 250px;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+        -webkit-box-align: center;
+            -ms-flex-align: center;
+                align-items: center;
+    }
+    .newsItem{
+        width: 350px;
+        height: 50px;
+        margin-top: 0;
+    }
+    .date{
+        width: 70px;
+        height: 10px;
+        top: 5px;
+        left: 133px;
+    }
+    .textNews{
+        width: 280px;
+        height: 30px;
+        top: 20px;
+        left: 35px;
+    }
+    .showAllNews{
+        width: 110px;
+        height: 25px;
+        left: 150px;
+        top: 210px;
+    }
+
+    /* FOOTER */
+    .facebookFooter{
+        left: 385px;
+        top: 3px;
+    }
+    .contactsFooter{
+        left: 195px;
+        top: 45px;
+    }
+    .phoneNumberFooter{
+        left: 265px;
+    }
+    .positionMorePhones_2{
+        left: 260px;
+        bottom: 86px;
+    }
+    #glyanecLogo{
+        top: 27px;
+        left: 286px;
+    }
+    #glyanecName{
+        width: 50px;
+        top: 30px;
+        left: 305px;
+    }
+}
+@media screen and (max-width: 414px){
+    
+    /* HEADER */
+    .ellipse{
+        left: 360px;
+    }
+    .positionMorePhones{
+        left: 253px;
+        top: 33px;
+    }
+    
+    /* MAIN */
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 167px;
+        top: 5px;
+    }
+    #textAboutUs{
+        left: 7px;
+    }
+    .date{
+        left: 140px;
+    }
+    .showAllNews{
+        left: 152px;
+    }
+
+    /* FOOTER */
+    .phoneNumberFooter{
+        left: 255px;
+    }
+    .positionMorePhones_2{
+        left: 252px;
+    }
+}
+@media screen and (max-width: 375px){
+    /* HEADER */
+    #header{
+        height: 40px;
+    }
+    .logo{
+        width: 120px;
+        height: 32px;
+    }
+    .cmyk{
+        width: 32px;
+        height: 27px;
+    }
+    .printe{
+        font-size: 18px;
+    }
+    .yourTypography{
+        font-size: 9px;
+        top: 20px;
+    }
+    #menuIcon{
+        top: 7px;
+    }
+    .sсhedule{
+        height: 20px;
+        left: 170px;
+        top: 7px;
+    }
+    .facebook{
+        width: 12px;
+        height: 14px;
+    }
+    .facebookHeader{
+        left: 285px;
+    }
+    .phoneNumber{
+        width: 70px;
+        height: 10px;
+        font-size: 9px;
+        font-weight: 100;
+        top: 7px;
+        left: 255px;
+    }
+    .ellipse{
+        left: 327px;
+        top: 5px;
+    }
+    .chevron{
+        margin-top: 0;
+    }
+    #shoppingCart{
+        width: 20px;
+        height: 20px;
+        left: 92%;
+    }
+    #shoppingCircle{
+        width: 14px;
+        height: 14px;
+        left: 95.5%;
+    }
+    #shoppingNumber{
+        top: 2px;
+        left: 4.5px;
+    }   
+    .positionMorePhones{
+        left: 221px;
+        top: 31px;
+    }
+    /* MAIN */
+    #shipping{
+        height: 120px;
+    }
+    #operationalPrinting{
+        font-size: 14px;
+        width: 330px;
+        height: 20px;
+    }
+    #delivery{
+        font-size: 12px;
+        width: 220px;
+        height: 15px;
+        margin-top: 5px;
+    }
+    #products{
+        height: 240px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 149px;
+    }
+    .contentProducts{
+        width: 370px;
+    }
+    .officeItem,
+    .advertisingItem,
+    .businessItem,
+    .advertisingItem_2{
+        width: 328px;
+    }
+    #aboutUs{
+        height: 87px;
+    }
+    #textAboutUs{
+        overflow: scroll;
+        width: 360px;
+        height: 50px;
+        top: 25px;
+        left: 7.5px;
+    }
+    .showAllNews{
+        left: 135px;
+        top: 210px;
+    }
+
+    /* FOOTER */
+    #footer{
+        height: 65px;
+    }
+    .logoFooter,
+    .protection{
+        left: 10px;
+    }
+    .protection{
+        width: 130px;
+        top: 40px;
+    }
+    .scheduleFooter{
+        left: 140px;
+    }
+    .facebookFooter{
+        left: 340px;
+        top: 5px;
+    }
+    .contactsFooter{
+        font-size: 10px;
+        left: 175px;
+        top: 35px;
+    }
+    .phoneNumberFooter{
+        left: 245px;
+    }
+    .ellipseFooter{
+        left: 320px;
+    }
+    .positionMorePhones_2{
+        left: 212px;
+        bottom: 68px;
+    }
+    #glyanecLogo{
+        top: 27px;
+        left: 250px;
+    }
+    #glyanecName{
+        font-size: 8px;
+        left: 270px;
+    }
+}
+@media screen and (max-width: 320px){
+
+    /* HEADER */
+    .logo{
+        width: 110px;
+    }
+    .yourTypography{
+        font-size: 8px;
+        top: 20px;
+    }
+    .sсhedule{
+        width: 65px;
+        height: 15px;
+        font-size: 7px;
+        left: 155px;
+    }
+    .phoneNumber{
+        width: 70px;
+        height: 10px;
+        font-size: 7px;
+        top: 7px;
+        left: 205px;
+    }
+    .facebookHeader{
+        left: 245px;
+    }
+    .ellipse{
+        width: 10px;
+        height: 10px;
+        left: 277px;
+        
+    }
+    .chevron{
+        width: 10px;
+        height: 5px;
+        margin-bottom: 6px;
+    }
+    #shoppingNumber{
+        font-size: 7px;
+        top: 4px;
+        left: 4.5px;
+    }
+    #shoppingCart{
+        left: 91%;
+    }
+    #shoppingCircle{
+        left: 94.5%;
+    }
+    .positionMorePhones{
+        left: 168px;
+        top: 31px;
+    }   
+    /* MAiN */
+    #operationalPrinting{
+        font-size: 14px;
+        width: 310px;
+    }
+    
+    .contentProducts{
+        width: 310px;
+    }
+    .officeItem,
+    .advertisingItem,
+    .businessItem,
+    .advertisingItem_2{
+        width: 260px;
+    }
+    .contentProducts:nth-child(2),
+    .contentProducts:nth-child(4){
+        height: 90px;
+    }
+    #textAboutUs{
+        width: 310px;
+        left: 5px;
+    }
+    .nameProducts, 
+    .nameAboutUs,
+    .nameNews{
+        left: 120px;
+    }
+    .newsItem{
+        width: 310px;
+    }
+    .date{
+        width: 70px;
+        height: 10px;
+        top: 5px;
+        left: 118px;
+    }
+    .textNews{
+        width: 250px;
+        left: 27px;
+    }
+    .showAllNews{
+        left: 105px;
+    }
+    /* FOOTER */
+    .scheduleFooter{
+        left: 135px;
+    }
+    .contactsFooter{
+        left: 155px;
+    }
+    .facebookFooter{
+        left: 295px;
+        top: 2px;
+    }
+    .positionMorePhones_2{
+        left: 167px;
+    }
+    #glyanecLogo{
+        left: 220px;
+    }
+    #glyanecName{
+        left: 240px;
+    }
+}

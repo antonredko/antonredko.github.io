@@ -1,0 +1,453 @@
+/* Стили блока "Доставка" */
+
+#shipping{
+    width: inherit;
+    height: 500px;
+    background-image: url('../img/main_image.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+}
+h2{
+    font-family: 'Clear Sans', sans-serif;
+    line-height: normal;
+    text-align: center;
+    color: #FFFFFF;
+}
+#operationalPrinting{
+    font-size: 57px;
+    width: 1215px;
+    height: 78px;
+}
+#lineInShipping{
+    width: 120px;
+    height: 0px;
+    border: 2px solid #FFFFFF;
+}
+#delivery{
+    font-size: 24px;
+    font-weight: 100;
+    width: 579px;
+    height: 28px;
+    margin-top: 15px;
+}
+#orderButton{
+    width: 200px;
+    height: 48px;
+    background: #1AB0CE;
+    border-radius: 2px;
+    text-decoration: none;
+    margin-top: 27px;
+    position: relative;
+}
+#nameOfOrderButton{
+    width: 155.56px;
+    height: 21px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 12px;
+    left: 22.22px;
+}
+#orderButton:hover{
+    background: #FFFFFF;
+}
+#orderButton:hover #nameOfOrderButton{
+    color: #1AB0CE;
+}
+
+/* Конец стилей блока "Доставка" */
+
+
+/* Стили кнопок ¨Перезвоните мне¨ */
+
+.shellCallMe{
+    width: 108px;
+    height: 108px;
+    border-radius: 50%;
+    background: #1AB0CE;
+    position: relative;
+    -webkit-box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.05);
+        box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.05);
+}
+#idshellCallMe{
+    position: absolute;
+    left: 1577px;
+    top: 609px;
+}
+.iconCallMe{
+    width: 23px;
+    height: 23px;
+    color: #FFFFFF;
+    position: absolute;
+    left: 42px;
+    top: 22px;
+}
+.nameCallMe{
+    width: 104px;
+    height: 42px;
+    color: #FFFFFF;
+    text-align: center;
+    position: absolute;
+    left: 2px;
+    top: 46px;
+}
+.callMe:hover .shellCallMe{
+    -webkit-transition:.3s;
+    transition:.3s;
+    -webkit-animation:hoverWave linear 1s infinite;
+    animation:hoverWave linear 1s infinite;
+}
+.callMe:hover .iconCallMe{
+    animation: 1200ms ease 0s normal none 1 running shake;
+    animation-iteration-count: infinite;
+    -webkit-animation: 1200ms ease 0s normal none 1 running shake;
+    -webkit-animation-iteration-count: infinite;
+}
+#idshellCallMe_2{
+    position: absolute;
+    top: 1730px;
+    left: 1569px;
+    z-index: 10;
+}
+
+/* Анимация кнопок ¨Перезвоните мне¨ */
+
+@-webkit-keyframes hoverWave{
+    0%{
+        -webkit-box-shadow:0 8px 10px rgba(56,163,253,0.3),0 0 0 0 rgba(56,163,253,0.2),0 0 0 0 rgba(56,163,253,0.2);
+                box-shadow:0 8px 10px rgba(56,163,253,0.3),0 0 0 0 rgba(56,163,253,0.2),0 0 0 0 rgba(56,163,253,0.2)
+    }
+    40%{
+            -webkit-box-shadow:0 8px 10px rgba(56,163,253,0.3),0 0 0 15px rgba(56,163,253,0.2),0 0 0 0 rgba(56,163,253,0.2);
+                    box-shadow:0 8px 10px rgba(56,163,253,0.3),0 0 0 15px rgba(56,163,253,0.2),0 0 0 0 rgba(56,163,253,0.2)
+    }
+    80%{
+            -webkit-box-shadow:0 8px 10px rgba(56,163,253,0.3),0 0 0 30px rgba(56,163,253,0),0 0 0 26.7px rgba(56,163,253,0.067);
+                    box-shadow:0 8px 10px rgba(56,163,253,0.3),0 0 0 30px rgba(56,163,253,0),0 0 0 26.7px rgba(56,163,253,0.067)
+    }
+    100%{
+            -webkit-box-shadow:0 8px 10px rgba(56,163,253,0.3),0 0 0 30px rgba(56,163,253,0),0 0 0 40px rgba(56,163,253,0.0);
+                    box-shadow:0 8px 10px rgba(56,163,253,0.3),0 0 0 30px rgba(56,163,253,0),0 0 0 40px rgba(56,163,253,0.0)
+    }
+}
+@keyframes hoverWave{
+    0%{
+        box-shadow:0 8px 10px rgba(56,163,253,0.3),0 0 0 0 rgba(56,163,253,0.2),0 0 0 0 rgba(56,163,253,0.2)
+    }
+    40%{
+        box-shadow:0 8px 10px rgba(56,163,253,0.3),0 0 0 15px rgba(56,163,253,0.2),0 0 0 0 rgba(56,163,253,0.2)
+    }
+    80%{
+        box-shadow:0 8px 10px rgba(56,163,253,0.3),0 0 0 30px rgba(56,163,253,0),0 0 0 26.7px rgba(56,163,253,0.067)
+    }
+    100%{
+        box-shadow:0 8px 10px rgba(56,163,253,0.3),0 0 0 30px rgba(56,163,253,0),0 0 0 40px rgba(56,163,253,0.0)
+    }
+}
+@keyframes shake{
+    0%{
+        transform: rotateZ(0deg);
+            -ms-transform: rotateZ(0deg);
+    }
+    10%{
+        transform: rotateZ(-30deg);
+            -ms-transform: rotateZ(-30deg);
+    }
+    20%{
+        transform: rotateZ(15deg);
+            -ms-transform: rotateZ(15deg);
+    }
+    30%{
+        transform: rotateZ(-10deg);
+            -ms-transform: rotateZ(-10deg);
+    }
+    40%{
+        transform: rotateZ(7.5deg);
+            -ms-transform: rotateZ(7.5deg);
+    }
+    50%{
+        transform: rotateZ(-6deg);
+            -ms-transform: rotateZ(-6deg);
+    }
+    60%{
+        transform: rotateZ(5deg);
+            -ms-transform: rotateZ(5deg);
+    }
+    70%{
+        transform: rotateZ(-4.28571deg);
+            -ms-transform: rotateZ(-4.28571deg);
+    }
+    80%{
+        transform: rotateZ(3.75deg);
+            -ms-transform: rotateZ(3.75deg);
+    }
+    90%{
+        transform: rotateZ(-3.33333deg);
+            -ms-transform: rotateZ(-3.33333deg);
+    }
+    100%{
+        transform: rotateZ(0deg);
+            -ms-transform: rotateZ(0deg);
+    }
+}
+@-webkit-keyframes shake{
+    0%{
+        -webkit-transform: rotateZ(0deg);
+    }
+    10%{
+        -webkit-transform: rotateZ(-30deg);
+    }
+    20%{
+        -webkit-transform: rotateZ(15deg);
+    }
+    30%{
+        -webkit-transform: rotateZ(-10deg);
+    }
+    40%{
+        -webkit-transform: rotateZ(7.5deg);
+    }
+    50%{
+        -webkit-transform: rotateZ(-6deg);
+    }
+    60%{
+        -webkit-transform: rotateZ(5deg);
+    }
+    70%{
+        -webkit-transform: rotateZ(-4.28571deg);
+    }
+    80%{
+        -webkit-transform: rotateZ(3.75deg);
+    }
+    90%{
+        -webkit-transform: rotateZ(-3.33333deg);
+    }
+    100%{
+        -webkit-transform: rotateZ(0deg);
+    }
+}
+
+/* Конец стилей кнопок ¨Перезвоните мне¨ */
+
+
+/* Стили блока "Продукция" */
+
+#products{
+    position: relative;
+    width: inherit;
+    height: 420px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+.nameBlocks{
+    width: 349px;
+    height: 45px;
+    font-family: 'Clear Sans', sans-serif;
+    font-size: 36px;
+    line-height: normal;
+    text-align: center;
+    color: #3A4047;
+    font-weight: 100;
+}
+.nameProducts{
+    position: absolute;
+    left: 786px;
+    top: 29px;
+}
+.contentProducts{
+    position: relative;
+    width: 370px;
+    height: 291px;
+    background: #FFFFFF;
+    border: 1px solid #DCE1E6;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    -webkit-box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+            box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.05);
+    margin-right: 30px;
+    margin-top: 118px;
+}
+.contentProducts:last-child{
+    margin-right: 0;
+}
+.logoProducts{
+    position: absolute;
+    top: 25px;
+    left: 29px;
+}
+.nameContentProducts{
+    position: absolute;
+    top: 29px;
+    left: 120px;
+    text-transform: uppercase;
+    text-align: left;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    font-family: 'Clear Sans', sans-serif;
+    font-size: 14px;
+    margin-bottom: 16px;
+    color: #3A4047;
+}
+li:last-child{
+    margin-bottom: 0;
+}
+.officeItem{
+    width: 151px;
+    height: 200px;
+}
+.advertisingItem{
+    width: 117px;
+    height: 161px;
+}
+.advertisingItem_2{
+    width: 96px;
+    height: 161px;
+    position: absolute;
+    top: 65px;
+    left: 246px;
+}
+.businessItem{
+    width: 215px;
+    height: 200px;
+}
+.itemProducts{
+    position: absolute;
+    top: 65px;
+    left: 120px;
+}
+
+/* Конец стилей блока "Продукция" */
+
+
+/* Стили блока "О нас" */
+
+#aboutUs{
+    position: relative;
+    width: inherit;
+    height: 269px;
+    border-bottom: 2px solid #E8EDF2;
+}
+.nameAboutUs{
+    position: absolute;
+    left: 786px;
+    top: 20px;
+}
+#textAboutUs{
+    width: 1166px;
+    height: 104px;
+    position: absolute;
+    left: 375px;
+    top: 140px;
+    font-family: 'Clear Sans', sans-serif;
+    font-size: 14px;
+    line-height: normal;
+    text-align: justify;
+    color: #3A4047;
+}
+
+/* Конец стилей блока "О нас" */
+
+
+/* Стили блока "Новости" */
+
+#news{
+    position: relative;
+    width: inherit;
+    height: 430px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+}
+.nameNews{
+    position: absolute;
+    left: 786px;
+    top: 33px;
+}
+.newsItem{
+    width: 398px;
+    height: 170px;
+    margin-top: 128px;
+    position: relative;
+}
+.date{
+    width: 151px;
+    height: 17px;
+    text-align: center;
+    color: #BEC7D1;
+    font-weight: 100;
+    position: absolute;
+    top: 29px;
+    left: 122px;
+}
+.textNews{
+    width: 366px;
+    height: 79px;
+    position: absolute;
+    top: 60px;
+    left: 14px;
+    font-weight: 100;
+}
+.newsItem:hover{
+    -webkit-box-shadow: 0px 14px 24px rgba(0, 0, 0, 0.05), 0px -1px 0px #1AB0CE;
+            box-shadow: 0px 14px 24px rgba(0, 0, 0, 0.05), 0px -1px 0px #1AB0CE;
+}
+.newsItem:hover .textNews{
+    color: #1AB0CE;
+    text-decoration: underline;
+}
+.showAllNews{
+    width: 190px;
+    height: 32px;
+    background: #FFFFFF;
+    border: 1px solid #1AB0CE;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+    border-radius: 2px;
+    text-decoration: none;
+    text-align: center;
+    position: absolute; 
+    left: 865px;
+    top: 349px;
+}
+.buttonNews{
+    color: #1AB0CE;
+    vertical-align: middle;
+    font-weight: 100;
+}
+.showAllNews:hover{
+    background: #1AB0CE;
+}
+.showAllNews:hover .buttonNews{
+    color: #FFFFFF;
+}
+
+/* Конец стилей блока "Новости" */
