@@ -1,0 +1,443 @@
+body,
+div,
+dl,
+dt,
+dd,
+ul,
+li,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+pre,
+code,
+form,
+fieldset,
+input,
+textarea,
+p,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+fieldset,
+img,
+abbr {
+  border: 0;
+}
+address,
+caption,
+cite,
+code,
+dfn,
+em,
+strong,
+th,
+var {
+  font-style: normal;
+  font-weight: normal;
+}
+ul li {
+  list-style: none;
+}
+caption,
+th {
+  text-align: left;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+  font-weight: normal;
+}
+sup {
+  vertical-align: text-top;
+}
+sub {
+  vertical-align: text-bottom;
+}
+input,
+textarea,
+select {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+}
+legend {
+  color: #000;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+main {
+  display: block;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+html,
+body {
+  font-size: 16px;
+}
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: -15px;
+  margin-right: -15px;
+  justify-content: center;
+}
+.wrapper {
+  background-color: #f2f2f2;
+}
+.service {
+  font-size: 1rem;
+  margin: 3.125em 1.313em 5.625em 1.313em;
+  width: 20.5em;
+  height: 41.625em;
+  text-align: center;
+  background-color: white;
+}
+@media screen and (max-width: 960px) {
+  .service {
+    margin: 15px;
+  }
+}
+@media screen and (max-width: 780px) {
+  .service {
+    margin: 15px;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .service {
+    margin: 15px;
+  }
+}
+.service__name {
+  height: 2.917em;
+  background-color: #2261bf;
+  position: relative;
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+  line-height: 2.917em;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.5em;
+}
+.service__name:after {
+  content: '';
+  position: absolute;
+  left: 47%;
+  bottom: -0.833em;
+  border: 0.583em solid transparent;
+  border-top: 0.375em solid #2261bf;
+}
+.service__description {
+  margin-bottom: 3.5em;
+  font-family: Arial, Regular, sans-serif;
+  color: #4c4c4c;
+  margin-top: 1.188em;
+  padding: 0 1.313em 0 1.313em;
+  text-align: left;
+}
+.service__price {
+  height: 2em;
+  text-align: center;
+  line-height: 2em;
+  border-top: 1px solid #e6e6e6;
+  border-bottom: 1px solid #e6e6e6;
+  font-family: Helvetica, Bold;
+  font-size: 1.75em;
+  position: relative;
+}
+.service__price:before {
+  content: 'СТОИМОСТЬ';
+  position: absolute;
+  color: #4c4c4c;
+  background-color: white;
+  font-size: 0.5em;
+  bottom: 3.929em;
+  padding: 0 0.786em;
+  line-height: 0.357em;
+}
+.service__discount {
+  height: 7.500em;
+  width: 17.500em;
+  margin: 3.188em auto 2.875em;
+  background-color: #e5e5e5;
+  position: relative;
+  border-radius: 0.2em 0.2em 0 0;
+  text-align: center;
+  color: black;
+}
+.service__discount:after {
+  content: '';
+  width: 0;
+  height: 0;
+  position: absolute;
+  bottom: -1.688em;
+  left: 0;
+  border-left: 8.750em solid transparent;
+  border-right: 8.750em solid transparent;
+  border-top: 1.688em solid #e5e5e5;
+}
+.service__label {
+  height: 1.750em;
+  width: 2.625em;
+  background-color: #2261bf;
+  position: relative;
+  margin: auto;
+  border-radius: 0.2em 0.2em 0 0;
+  bottom: 14px;
+  font-family: Arial, bold;
+  font-size: 1em;
+  color: white;
+  text-transform: uppercase;
+  line-height: 1.75em;
+  text-align: center;
+}
+.service__label:before {
+  content: '';
+  position: absolute;
+  border-left: 1.313em solid transparent;
+  border-right: 1.313em solid transparent;
+  border-top: 0.688em solid #2261bf;
+  top: 1.750em;
+  left: 0;
+}
+.service__condition {
+  font-family: Arial;
+  font-size: 0.875em;
+}
+.service__secprice {
+  font-family: Helvetica,Bold;
+  font-size: ;
+  padding: 0.433em 0 0.433em 0;
+}
+.service__btn {
+  padding: 0.4em 0.6em;
+  background-color: #75c411;
+  color: white;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 1.250em;
+  border-radius: 0.2em;
+  height: 1.8em;
+  width: 5.75em;
+}
+.service__star {
+  font-family: Arial;
+  font-size: 0.813em;
+  font-weight: bold;
+  position: absolute;
+  margin-top: 0.5em;
+}
+.service__text {
+  margin-left: 1.7em;
+}
+.service__img {
+  position: absolute;
+}
+.service--opt {
+  font-size: 1rem;
+  margin: 3.125em 1.313em 5.625em 1.313em;
+  width: 20.5em;
+  height: 41.625em;
+  text-align: center;
+  background-color: white;
+  width: 22.500em;
+  min-width: 22.500em;
+  height: 44.063em;
+  margin: 1.875em 1.313em 4.375em 1.313em;
+  -webkit-box-shadow: 0 0.75em 1.125em 0 rgba(0, 0, 0, 0.29);
+  -moz-box-shadow: 0 0.75em 1.125em 0 rgba(0, 0, 0, 0.29);
+  box-shadow: 0 0.75em 1.125em 0 rgba(0, 0, 0, 0.29);
+}
+@media screen and (max-width: 960px) {
+  .service--opt {
+    margin: 15px;
+  }
+}
+@media screen and (max-width: 780px) {
+  .service--opt {
+    margin: 15px;
+  }
+}
+@media screen and (max-width: 1100px) {
+  .service--opt {
+    margin: 15px;
+  }
+}
+.service--opt__name {
+  height: 2.917em;
+  background-color: #2261bf;
+  position: relative;
+  font-family: Arial;
+  font-weight: bold;
+  color: white;
+  line-height: 2.917em;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.5em;
+}
+.service--opt__name:after {
+  content: '';
+  position: absolute;
+  left: 47%;
+  bottom: -0.833em;
+  border: 0.583em solid transparent;
+  border-top: 0.375em solid #2261bf;
+}
+.service--opt__description {
+  margin-bottom: 3.5em;
+  font-family: Arial, Regular, sans-serif;
+  color: #4c4c4c;
+  margin-top: 1.188em;
+  padding: 0 1.313em 0 1.313em;
+  text-align: left;
+}
+.service--opt__price {
+  height: 2em;
+  text-align: center;
+  line-height: 2em;
+  border-top: 1px solid #e6e6e6;
+  border-bottom: 1px solid #e6e6e6;
+  font-family: Helvetica, Bold;
+  font-size: 1.75em;
+  position: relative;
+}
+.service--opt__price:before {
+  content: 'СТОИМОСТЬ';
+  position: absolute;
+  color: #4c4c4c;
+  background-color: white;
+  font-size: 0.5em;
+  bottom: 3.929em;
+  padding: 0 0.786em;
+  line-height: 0.357em;
+}
+.service--opt__discount {
+  height: 7.500em;
+  width: 17.500em;
+  margin: 3.188em auto 2.875em;
+  background-color: #e5e5e5;
+  position: relative;
+  border-radius: 0.2em 0.2em 0 0;
+  text-align: center;
+  color: black;
+}
+.service--opt__discount:after {
+  content: '';
+  width: 0;
+  height: 0;
+  position: absolute;
+  bottom: -1.688em;
+  left: 0;
+  border-left: 8.750em solid transparent;
+  border-right: 8.750em solid transparent;
+  border-top: 1.688em solid #e5e5e5;
+}
+.service--opt__label {
+  height: 1.750em;
+  width: 2.625em;
+  background-color: #2261bf;
+  position: relative;
+  margin: auto;
+  border-radius: 0.2em 0.2em 0 0;
+  bottom: 14px;
+  font-family: Arial, bold;
+  font-size: 1em;
+  color: white;
+  text-transform: uppercase;
+  line-height: 1.75em;
+  text-align: center;
+}
+.service--opt__label:before {
+  content: '';
+  position: absolute;
+  border-left: 1.313em solid transparent;
+  border-right: 1.313em solid transparent;
+  border-top: 0.688em solid #2261bf;
+  top: 1.750em;
+  left: 0;
+}
+.service--opt__condition {
+  font-family: Arial;
+  font-size: 0.875em;
+}
+.service--opt__secprice {
+  font-family: Helvetica,Bold;
+  font-size: ;
+  padding: 0.433em 0 0.433em 0;
+}
+.service--opt__btn {
+  padding: 0.4em 0.6em;
+  background-color: #75c411;
+  color: white;
+  font-family: Arial;
+  font-weight: bold;
+  font-size: 1.250em;
+  border-radius: 0.2em;
+  height: 1.8em;
+  width: 5.75em;
+}
+.service--opt__star {
+  font-family: Arial;
+  font-size: 0.813em;
+  font-weight: bold;
+  position: absolute;
+  margin-top: 0.5em;
+}
+.service--opt__text {
+  margin-left: 1.7em;
+}
+.service--opt__img {
+  position: absolute;
+}
+.service--opt .service__name {
+  background-color: #f06e05;
+  height: 3.55em;
+  line-height: 3.5em;
+}
+.service--opt .service__name:after {
+  border-top: 0.458em solid  #f06e05;
+}
+.service--opt .service__discount {
+  width: 19.500em;
+}
+.service--opt .service__discount:after {
+  border-left: 9.750em solid transparent;
+  border-right: 9.750em solid transparent;
+}
+.service--opt .service__btn {
+  margin-top: 0.8em;
+}
+.service--opt .service__description {
+  padding: 0 1.9em 0 1.313em;
+}
+.service--opt .service__label {
+  background-color: #df403c;
+}
+.service--opt .service__label:before {
+  border-top: 0.688em solid  #df403c;
+}

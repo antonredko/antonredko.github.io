@@ -1,0 +1,199 @@
+#footer{
+    width: inherit;
+    height: 159px;
+    background: #F7F7F7;
+    box-shadow: inset 0px 2px 2px rgba(0, 0, 0, 0.05);
+    position: relative;
+}
+.protection{
+    width: 236px;
+    height: 17px;
+    font-weight: 100;
+    position: absolute;
+    top: 110px;
+    left: 375px;
+}
+.qualityFooter{
+    text-align: left;
+    width: 290px;
+}
+.scheduleFooter{
+    font-weight: 100;
+    position: absolute;
+    width: 241px;
+    top: 100px;
+    left: 694px;
+}
+.menuFooter{
+    color: #3A4047;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 21px;
+    position: absolute;
+}
+.mainFooter{
+    left: 1020px;
+    top: 32px;
+}
+.productsFooter{
+    left: 1020px;
+    top: 69px;
+}
+.shippingFooter{
+    left: 1020px;
+    top: 108px;
+}
+.newsFooter{
+    left: 1182px;
+    top: 32px;
+}
+.baceFooter{
+    left: 1182px;
+    top: 69px;
+}
+.aboutUsFooter{
+    left: 1182px;
+    top: 108px;
+}
+.facebookFooter{
+    position: absolute;
+    left: 1322px;
+    top: 28px;
+}
+.phoneFooter{
+    position: absolute;
+    left: 1358px;
+    top: 32px;
+}
+.phoneNumberFooter{
+    position: absolute;
+    left: 1388px;
+    top: 32px;
+}
+.ellipseFooter{
+    position: absolute;
+    left: 1525px;
+    top: 31px;
+    background: #FFFFFF;
+}
+.contactsFooter{
+    left: 1480px;
+    top: 69px;
+}
+#glyanecLogo{
+    position: absolute;
+    left: 1345px;
+    top: 121px;
+}
+#glyanecName{
+    position: absolute;
+    left: 1365px;
+    top: 123px;
+    font-family: 'Cuprum', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    line-height: normal;
+    text-transform: uppercase;
+    color: #3A4047;
+}
+
+
+/* Стили для нижнего выпадающего окна */
+
+.positionMorePhones_2{
+    position: absolute;
+    left: 1336px;
+    bottom: 145px;
+}
+.positionRhombus_2{
+    position: absolute;
+    left: 184px;
+    top: 145px;
+}
+#vodafoneLogo_2{
+    position: absolute;
+    top: 30px;
+    left: 30px;;
+}
+#vodafone_2{
+    position: absolute;
+    top: 32px;
+    left: 65px;
+}
+#kyivstarLogo_2{
+    position: absolute;
+    top: 65px;
+    left: 30px;
+}
+#kyivstar_2{
+    position: absolute;
+    top: 70px;
+    left: 65px;
+}
+#lifecellLogo_2{
+    position: absolute;
+    top: 102px;
+    left: 30px;
+}
+#lifecell_2{
+    position: absolute;
+    top: 105px;
+    left: 65px;
+}
+
+/* Анимация появления второго выпадающего окна */
+
+.positionMorePhones_2{
+	animation-name: slideUp;
+	-webkit-animation-name: slideUp;	
+	animation-duration: 1s;	
+	-webkit-animation-duration: 1s;
+	animation-timing-function: ease;	
+	-webkit-animation-timing-function: ease;
+	visibility: visible !important;			
+}
+@keyframes slideUp {
+	0% {
+		transform: translateY(100%);
+	}
+	50%{
+		transform: translateY(-8%);
+	}
+	65%{
+		transform: translateY(4%);
+	}
+	80%{
+		transform: translateY(-4%);
+	}
+	95%{
+		transform: translateY(2%);
+	}			
+	100% {
+		transform: translateY(0%);
+	}	
+}
+@-webkit-keyframes slideUp {
+	0% {
+		-webkit-transform: translateY(100%);
+	}
+	50%{
+		-webkit-transform: translateY(-8%);
+	}
+	65%{
+		-webkit-transform: translateY(4%);
+	}
+	80%{
+		-webkit-transform: translateY(-4%);
+	}
+	95%{
+		-webkit-transform: translateY(2%);
+	}			
+	100% {
+		-webkit-transform: translateY(0%);
+	}	
+}
+
+/* Конец стилей второго выпадающего окна */

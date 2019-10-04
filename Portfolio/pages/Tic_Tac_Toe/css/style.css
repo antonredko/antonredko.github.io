@@ -1,0 +1,231 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background: url("../img/paper.jpg");
+} 
+table{
+    border-collapse: collapse; 
+    margin: 0 auto;
+    margin-top: 30px; */
+    animation-name: fadeIn;
+	-webkit-animation-name: fadeIn;	
+	animation-duration: 0.5s;	
+	-webkit-animation-duration: 0.5s;
+	animation-timing-function: ease-in-out;	
+	-webkit-animation-timing-function: ease-in-out;	
+	visibility: visible !important;
+}
+@keyframes fadeIn {
+    0%{
+        -webkit-transform: scale(0);
+                transform: scale(0);
+        opacity: 0.0;		
+    }
+    60%{
+        -webkit-transform: scale(1.1);
+                transform: scale(1.1);	
+    }
+    80%{
+        -webkit-transform: scale(0.9);
+                transform: scale(0.9);
+        opacity: 1;	
+    }	
+    100%{
+        -webkit-transform: scale(1);
+                transform: scale(1);
+        opacity: 1;	
+    }		
+}
+@-webkit-keyframes fadeIn {
+    0%{
+        -webkit-transform: scale(0);
+        opacity: 0.0;		
+    }
+    60%{
+        -webkit-transform: scale(1.1);
+    }
+    80%{
+        -webkit-transform: scale(0.9);
+        opacity: 1;	
+    }	
+    100%{
+        -webkit-transform: scale(1);
+        opacity: 1;	
+    }		
+}
+h1{
+    color: #2933a5;
+    padding: 20px;
+    margin-bottom: 10px;
+    text-align: center; 
+}
+td{
+    width: 150px;
+    height: 150px;
+    border: 5px solid #4f4e4e;
+    font-size: 50px;
+    text-align: center;
+    cursor: pointer;
+}
+tr:first-child td{
+    border-top: none;
+}
+tr:last-child td{
+    border-bottom: none;
+}
+td:first-child{
+    border-left: none;
+}
+td:last-child{
+    border-right: none;        
+}
+.button{
+    width: 150px;
+    height: 40px;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #2933a5;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: 900;
+    color: #2933a5;
+    background: #ffffff;
+    cursor: pointer;
+}
+.button:hover{
+    color: #ffffff;
+    background: #2933a5;
+}
+#gamers{
+    width: 500px;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+span{
+    width: 140px;
+    height: 35px;
+    font-size: 30px;
+    color: #2933a5;
+    text-align: center;
+    border: 2px solid #2933a5;
+    border-radius: 10px;
+}
+#gamer_1{
+    float: left;
+}
+#gamer_2{
+    float: right;
+}
+.dontShow{
+    display: none;
+}
+.show{
+    display: block;
+}
+#popup{
+    width: 100%;
+    min-height: 100%;
+    background-color: rgba(0,0,0,0.5);
+    position: fixed;
+    top: 0px;
+    z-index: 10;
+}
+#popup_content{
+    margin: 200px auto 0px auto;
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    background-color: #ffffff;
+    border-radius: 5px;
+    -webkit-box-shadow: 0px 0px 10px #000;
+            box-shadow: 0px 0px 10px #000;
+    position: relative;
+    z-index: 10;
+}
+#popup_content{
+    animation-name: slideDown;
+    -webkit-animation-name: slideDown;	
+    animation-duration: 1s;	
+    -webkit-animation-duration: 1s;
+    animation-timing-function: ease;	
+    -webkit-animation-timing-function: ease;	
+    visibility: visible !important;
+    z-index: 10;						
+}
+@keyframes slideDown {
+    0%{
+      -webkit-transform: translateY(-100%);
+              transform: translateY(-100%);
+    }
+    50%{
+      -webkit-transform: translateY(8%);
+              transform: translateY(8%);
+    }
+    65%{
+      -webkit-transform: translateY(-4%);
+              transform: translateY(-4%);
+    }
+    80%{
+      -webkit-transform: translateY(4%);
+              transform: translateY(4%);
+    }
+    95%{
+      -webkit-transform: translateY(-2%);
+              transform: translateY(-2%);
+    }			
+    100%{
+      -webkit-transform: translateY(0%);
+              transform: translateY(0%);
+    }		
+}
+@-webkit-keyframes slideDown {
+    0%{
+      -webkit-transform: translateY(-100%);
+    }
+    50%{
+      -webkit-transform: translateY(8%);
+    }
+    65%{
+      -webkit-transform: translateY(-4%);
+    }
+    80%{
+      -webkit-transform: translateY(4%);
+    }
+    95%{
+      -webkit-transform: translateY(-2%);
+    }			
+    100%{
+      -webkit-transform: translateY(0%);
+    }	
+}
+#popup_text{
+    width: inherit;
+    height: 50px;
+    margin: 50px auto 0 auto;
+    font-size: 40px;
+    text-align: center;
+    z-index: 10;
+}
+#newGame{
+    width: 200px;
+    position: absolute;
+    bottom: 20px;
+    left: 100px;
+    z-index: 10;
+}
+#canvas_1{
+    position: absolute;
+    display: none;
+}
+#canvas_2{
+    position: absolute;
+    display: none;
+}
+#canvas_3{
+    position: absolute;
+    display: none;
+}

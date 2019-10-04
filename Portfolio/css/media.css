@@ -1,0 +1,422 @@
+@media screen and (max-width: 1920px) {
+    #about{
+        height: 450px;
+    }
+}
+@media screen and (max-width: 1803px) {
+    #about{
+        height: 470px;
+    }
+}
+@media screen and (max-width: 1418px) {
+    .myWork{
+        width: 300px;
+    }
+    .myWork p{
+        width: 280px;
+    }
+}
+@media screen and (max-width: 1295px) {
+    .myWork{
+        width: 290px;
+        margin-right: 20px;
+    }
+    .myWork p{
+        width: 270px;
+    }
+}
+@media screen and (max-width: 1256px) {
+    #about{
+        height: 490px;
+    }
+}
+@media screen and (max-width: 1243px) {
+    #about{
+        height: 510px;
+    }
+}
+@media screen and (max-width: 1227px) {
+    .myWork{
+        width: 250px;
+    }
+    .myWork p{
+        width: 230px;
+    }
+    .link{
+        margin-right: 30px;
+    }
+    #name{
+        margin-right: 75px;
+    }
+}
+@media screen and (max-width: 1067px) {
+    h1{
+        letter-spacing: 8px;
+        font-size: 28px;
+    }
+    #portfolio{
+        height: 550px;
+    }
+    h2{
+        padding-top: 50px;
+    }
+    .myWork{
+        width: 220px;
+        height: 240px;
+        margin-right: 10px;
+    }
+    .myWork p{
+        width: 200px;
+    }
+    .link{
+        margin-right: 15px;
+        font-size: 15px;
+    }
+    #name{
+        margin-right: 40px;
+    }
+    #skills{
+        height: 450px;
+    }
+    ul{
+        height: 270px;
+    }
+    #about{
+        height: 480px;
+    }
+    #contacts{
+        height: 620px;
+    }
+}
+@media screen and (max-width: 945px) {
+    #about{
+        height: 500px;
+    }
+}
+@media screen and (max-width: 925px) {
+    #about{
+        height: 515px;
+    }
+}
+@media screen and (max-width: 917px) {
+    .greeting{
+        font-size: 20px;
+    }
+    h1{
+        letter-spacing: 6px;
+        font-size: 25px;
+    }
+    #portfolio{
+        height: 730px;
+    }
+    #whatIDo{
+        height: 500px;
+        -ms-flex-wrap: wrap;
+            flex-wrap: wrap;
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+    }
+    .myWork{
+        width: 300px;
+        height: 210px;
+        margin: 0;
+    }
+    .myWork p{
+        width: 280px;
+        padding: 0;
+    }
+}
+@media screen and (max-width: 822px) {
+    #about{
+        height: 490px;
+    }
+    #about p{
+        margin: 20px auto;
+    }
+}
+@media screen and (max-width: 815px) {
+    .menu{
+        -ms-flex-pack: distribute;
+            justify-content: space-around;
+    }
+    .link{
+        margin: 0;
+    }
+    #name{
+        margin: 0;
+    }
+}
+@media screen and (max-width: 766px) {
+    #about{
+        height: 510px;
+    }
+    #contacts p{
+        width: 90%;
+    }
+    #popup{
+        right: 50px;
+    }
+}
+@media screen and (max-width: 762px) {
+    #about{
+        height: 530px;
+    }
+}
+@media screen and (max-width: 673px) {
+    #about{
+        height: 550px;
+    }
+}
+@media screen and (max-width: 650px) {
+    ul{
+        width: 90%;
+    }
+}
+@media screen and (max-width: 649px) {
+    #about{
+        height: 560px;
+    }
+}
+@media screen and (max-width: 634px) {
+    #about{
+        height: 580px;
+    }
+}
+@media screen and (max-width: 622px) {
+    #skills{
+        height: 470px;
+    }
+    ul{
+        height: 290px;
+    }
+}
+@media screen and (max-width: 601px) {
+    .link{
+        display: none;
+    }
+    .menu span{
+        display: block;
+    }
+    h2{
+        padding-top: 30px;
+        letter-spacing: 2px;
+        font-size: 20px;
+    }
+    #portfolio{
+        height: 960px;
+    }
+    #whatIDo{
+        height: 750px;
+        -webkit-box-orient: vertical;
+        -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+                flex-direction: column;
+    }
+    .myWork{
+        width: 90%;
+        height: 170px;
+    }
+    .myWork p{
+        width: 95%;
+    }
+    #skills{
+        height: 450px;
+    }
+    #about{
+        height: 560px;
+    }
+    #contacts{
+        height: 590px;
+    }
+    form{
+        margin-top: 40px;
+    }
+}
+@media screen and (max-width: 593px) {
+    #skills{
+        height: 460px;
+    }
+    ul{
+        height: 310px;
+    }
+}
+@media screen and (max-width: 585px) {
+    #portfolio{
+        height: 970px;
+    }
+    .myWork{
+        height: 180px;
+    }
+    #skills{
+        height: 460px;
+    }
+}
+@media screen and (max-width: 556px) {
+    #about{
+        height: 570px;
+    }
+}
+@media screen and (max-width: 544px) {
+    #about{
+        height: 590px;
+    }
+}
+@media screen and (max-width: 523px) {
+    #about{
+        height: 610px;
+    }
+}
+@media screen and (max-width: 492px) {
+    #about{
+        height: 630px;
+    }
+}
+@media screen and (max-width: 474px) {
+    #about{
+        height: 650px;
+    }
+}
+@media screen and (max-width: 450px) {
+    p{
+        width: 90%;
+    }
+    form{
+        width: 90%;
+    }
+    form input,
+    form textarea{
+        width: inherit;
+        display: block;
+        margin: 0 auto 20px auto;
+    }
+    .send{
+        display: block;
+        margin: 0 auto;
+    }
+}
+@media screen and (max-width: 444px) {
+    #skills{
+        height: 470px;
+    }
+    ul{
+        height: 320px;
+    }
+}
+@media screen and (max-width: 438px) {
+    #about{
+        height: 670px;
+    }
+}
+@media screen and (max-width: 435px) {
+    #about{
+        height: 690px;
+    }
+}
+@media screen and (max-width: 406px) {
+    #about{
+        height: 710px;
+    }
+}
+@media screen and (max-width: 403px) {
+    #about{
+        height: 730px;
+    }
+}
+@media screen and (max-width: 400px) {
+    #skills{
+        height: 490px;
+    }
+    ul{
+        height: 340px;
+    }
+    #popup{
+        right: 0;
+    }
+}
+@media screen and (max-width: 399px) {
+    #portfolio{
+        height: 1010px;
+    }
+    #whatIDo{
+        height: 800px;
+    }
+    .myWork{
+        height: 195px;
+    }
+}
+@media screen and (max-width: 381px) {
+    #about{
+        height: 750px;
+    }
+}
+@media screen and (max-width: 375px) {
+    #portfolio{
+        height: 1050px;
+    }
+    #whatIDo{
+        height: 840px;
+    }
+    .myWork{
+        height: 205px;
+    }
+    #skills{
+        height: 520px;
+    }
+    ul{
+        height: 370px;
+    }
+    #about{
+        height: 810px;
+    }
+    #contacts{
+        height: 630px;
+    }
+}
+@media screen and (max-width: 364px) {
+    h2{
+        letter-spacing: 0;
+    }
+    #skills{
+        height: 505px;
+    }
+    ul{
+        height: 355px;
+    }
+}
+@media screen and (max-width: 361px) {
+    #about{
+        height: 830px;
+    }
+}
+@media screen and (max-width: 356px) {
+    #about{
+        height: 850px;
+    }
+}
+@media screen and (max-width: 355px) {
+    #skills{
+        height: 520px;
+    }
+    ul{
+        height: 370px;
+    }
+}
+@media screen and (max-width: 343px) {
+    #about{
+        height: 860px;
+    }
+}
+@media screen and (max-width: 333px) {
+    #skills{
+        height: 540px;
+    }
+    ul{
+        height: 390px;
+    }
+}
+@media screen and (max-width: 321px) {
+    #about{
+        height: 880px;
+    }
+}
+
