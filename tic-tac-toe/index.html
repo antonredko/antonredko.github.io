@@ -1,0 +1,45 @@
+<!-- <!DOCTYPE html> -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Tic Tac Toe</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div id="popup" class="popup dontShow">
+    <div id="popup_content">
+      <div id="popup_text"></div>
+      <button id="newGame" class="button">Играть еще</button>
+    </div>
+  </div>
+  <h1>Крестики - Нолики</h1>
+  <button id="begin" class="button">Начать игру</button>
+  <div id="gamers">
+    <span id="gamer_1" class="dontShow">Игрок 1</span>
+    <span id="gamer_2" class="dontShow">Игрок 2</span>
+  </div>
+  <table id="table">
+    <tr>
+      <td id="col_1"></td>
+      <td id="col_2"></td>
+      <td id="col_3"></td>
+    </tr>
+    <tr>
+      <td id="col_4"></td>
+      <td id="col_5"></td>
+      <td id="col_6"></td>
+    </tr>
+    <tr>
+      <td id="col_7"></td>
+      <td id="col_8"></td>
+      <td id="col_9"></td>
+    </tr>
+  </table>
+  <canvas id="canvas_1" width="470" height="5"></canvas>
+  <canvas id="canvas_2" width="5" height="470"></canvas>
+  <canvas id="canvas_3" width="630" height="5"></canvas>
+  <script src="script/script.js"></script>
+</body>
+</html>
