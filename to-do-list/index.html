@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Form work1</title>
+  <style>
+    .done{
+      text-decoration: line-through;
+    }
+    .textInput{
+      box-sizing: border-box;
+      padding: 10px 20px;
+    }
+    .addButton{
+      box-sizing: border-box;
+      padding: 10px 20px;
+      background: #ffcc00;
+    }
+    .DoneCheckbox,
+    .TodoText{
+      margin-right: 5px;
+    }
+    button{
+      background: red;
+      color: #fff;
+      padding: 5px 10px;
+    }
+    #toDoList{
+      font-family: 'Miss Fajardose', cursive;
+      background-image: url("img/blat.png");
+      background-repeat: no-repeat;
+    }
+  </style>
+</head>
+<body>
+    <header>
+      <input id="newToDo" class="textInput"/>
+      <input id="AddToDo" class="addButton" type="button" value="Add"/>
+    </header>
+    <ol id="toDoList">
+
+    </ol>
+
+    <script>
+      window.addEventListener("load", function () {
+        
+        AddToDo.addEventListener("click", function doThis() {
+
+          var li = document.createElement("li"),
+              input = document.createElement("input"),
+              span = document.createElement("span"),
+              button = document.createElement("button"),
+              buttons = document.getElementsByTagName("button"),
+              listItem = document.getElementsByClassName("listItem");
+
+          li.appendChild(input);
+          li.appendChild(span);
+          li.appendChild(button);
+
+          li.classList.add("listItem");
+          input.type = "checkbox";
+          input.classList.add("DoneCheckbox");
+          span.classList.add("TodoText");
+          button.innerText = "Remove";
+          toDoList.appendChild(li);
+          span.innerHTML = newToDo.value;
+          newToDo.value = "";
+
+          for(i = 0; i < buttons.length; i += 1) {
+            buttons[i].addEventListener("click", function(event) {
+              toDoList.removeChild(event.target.parentElement);
+            })
+          }
+
+          var DoneCheckbox = document.getElementsByClassName("DoneCheckbox");
+          for(i = 0; i < DoneCheckbox.length; i += 1) {
+            DoneCheckbox[i].addEventListener("change", function() {
+              event.target.parentElement.classList.add("done");
+            })
+          }
+        })
+      });
+    
+    </script>
+</body>
+</html>
