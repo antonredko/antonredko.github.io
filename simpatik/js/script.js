@@ -13,7 +13,7 @@ additionLink.addEventListener('click', showAddition);
 
 function changeImages() {
     window.screen.width <= 414 ? firstImage.src = 'img/DepositSmall.png' : firstImage.src = 'img/Deposit.png';
-    window.screen.width <= 414 ? secondImage.src = 'img/manSmall.png' : firstImage.src = 'img/man.png';
+    window.screen.width <= 414 ? secondImage.src = 'img/manSmall.png' : secondImage.src = 'img/man.png';
 }
 
 function hideChildren() {
