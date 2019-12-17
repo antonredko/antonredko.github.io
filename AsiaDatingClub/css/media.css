@@ -1,0 +1,219 @@
+@media screen and (max-width: 375px) {
+    .headerContent {
+        width: 100%;
+    }
+    .navbar {
+        width: 50%;
+    }
+    .menuIcon {
+        display: block;
+    }
+    .pages {
+        display: none;
+    }
+    .btnCase {
+        width: 140px;
+    }
+    .findYourBride {
+        width: inherit;
+        height: 31px;
+        font-size: 14px;
+        border-radius: 15px;
+        -webkit-border-radius: 15px;
+        -moz-border-radius: 15px;
+        -ms-border-radius: 15px;
+        -o-border-radius: 15px;
+        letter-spacing: 0;
+    }
+    .main {
+        width: 100%;
+    }
+    .first {
+        height: 820px;
+        padding-top: 20px;
+        position: relative;
+    }
+    .firstWomen {
+        width: 290px;
+        height: 193px;
+    }
+    .first .firstWomen {
+        position: absolute;
+        top: 340px;
+        left: 15px;
+    }
+    .byAsianBrides {
+        width: 100%;
+        height: inherit;
+    }
+    .byAsianBrides h1 {
+        width: 90%;
+        font-size: 26px;
+        position: absolute;
+        top: 50px;
+    }
+    .byAsianBrides h1+p {
+        position: absolute;
+        top: 220px;
+    }
+    .byAsianBrides > p:last-child {
+        width: 90%;
+        position: absolute;
+        top: 560px;
+    }
+    .statistic {
+        width: 98%;
+        position: absolute;
+        top: 260px;
+    }
+    .population {
+        width: 30%;
+    }
+    .registered {
+        width: 33%;
+    }
+    .statistic .happy {
+        width: 30%;
+    }
+    .statistic .registered p, .statistic .happy p {
+        margin-left: 5px;
+    }
+    .second {
+        height: 490px;
+    }
+    .topServices {
+        width: 100%;
+        padding-left: 0;
+    }
+    .topServices p {
+        text-align: center;
+    }
+    .slides {
+        width: 100%;
+        height: 340px;
+        top: 67px;
+        right: 0;
+        z-index: 9;
+        display: flex;
+        justify-content: space-between;
+    }
+    .slide {
+        width: 290px;
+        margin-left: 15px;
+    }
+    .slide:nth-child(2), .slide:nth-child(3) {
+        display: none;
+    }
+    .slide img {
+        width: 290px;
+        height: 180px;
+    }
+    #Left_arrow {
+        margin-top: 0;
+        position: absolute;
+        bottom: 20px;
+        right: 40px;
+    }
+    #Right_arrow {
+        margin-top: 0;
+        position: absolute;
+        bottom: 20px;
+        left: 40px;
+    }
+    .line {
+        margin-top: 0;
+        left: 115px;
+        top: 387px;
+    }
+    .third li:first-child, .third li:nth-child(2), .third li:nth-child(3), .third li:nth-child(4), .third li:nth-child(5) {
+        margin-left: 10%;
+    }
+    .conclusion {
+        margin-bottom: 40px;
+    }
+    .conclusion p {
+        width: 95%;
+    }
+    .beautifulWomen {
+        width: 95%;
+        height: 205px;
+        margin: 0 auto 50px auto;
+        flex-direction: column;
+        background: center center url('../img/-.png') no-repeat;
+        background-size: cover;
+        border-radius: 10px;
+        -webkit-border-radius: 10px;
+        -moz-border-radius: 10px;
+        -ms-border-radius: 10px;
+        -o-border-radius: 10px;
+}
+    .beautifulWomen p {
+        width: 70%;
+        margin: 0 0 15px 0;
+        text-align: center;
+    }
+    footer {
+        height: 420px;
+    }
+    .footerContent {
+        width: 100%;
+        flex-direction: column;
+        padding: 0;
+    }
+    .description {
+        width: 100%;
+        height: 140px;
+        flex-direction: column;
+        margin-top: 25px;
+        align-items: center;
+        justify-content: space-around;
+    }
+    .description p {
+        width: 90%;
+        text-align: center;
+    }
+    .description img {
+        width: 127px;
+        height: 44px;
+    }
+    .links {
+        width: 100%;
+        height: 140px;
+        flex-wrap: nowrap;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        margin-top: 15px;
+    }
+    .links a {
+        font-family: 'Roboto-Bold';
+        font-size: 18px;
+        line-height: 30px;
+        margin: 0;
+    }
+    .links a:nth-child(4) {
+        margin-left: 0;
+    }
+    .links a:nth-child(5) {
+        margin-left: 0;
+    }
+    .emailLogo {
+        width: 140px;
+        height: inherit;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .emailLogo span {
+        font-family: 'Roboto-Regular';
+        font-size: 18px;
+    }
+    .footerContent button {
+        display: none;
+    }
+    .copyright {
+        width: 100%;
+        text-align: center;
+    }
+}
