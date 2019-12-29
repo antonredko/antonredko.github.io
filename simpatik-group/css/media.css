@@ -1,0 +1,799 @@
+@media screen and (max-width: 1170px) {
+    .second, .third, .fourth, .fifth, #seventh {
+        width: 100%;
+    }
+    #items {
+        width: 100%;
+    }
+}
+@media screen and (max-width: 1166px) {
+    .prizeMe {
+        width: 50%;
+        margin-left: 80px;
+    }
+    .diplomView {
+        width: 30%;
+    }
+    .prizeMe p:first-child, .prizeMe p:nth-child(2),
+    .prizeMe p:nth-child(3), .prizeMe p:nth-child(4),
+    .prizeMe p:nth-child(5){
+        width: 100%;
+    }
+}
+@media screen and (max-width: 1080px) {
+    img {
+        margin-right: 0;
+    }
+    .title {
+        width: 90%;
+        padding-left: 10px;
+        left: 0;
+        margin-left: 0;
+    }
+    .diplom {
+        margin: 0 0 06px 0;
+    }
+    .diplomView a:nth-child(2) {
+        margin: 0 0 46px 0;
+    }
+    .addition {
+        margin-left: 15px;
+    }
+    .fifthLeft p {
+        margin-left: 80px;
+    }
+    .man {
+        margin-right: 0;
+      }
+    #seventh > a + p {
+        width: 90%;
+        font-size: 30px;
+    }
+    #seventh p.annot {
+        width: 90%;
+    }
+}
+@media screen and (max-width: 988px) {
+    .deliveryBrown {
+        width: 100%;
+        left: 0;
+        margin-left: 0;
+    }
+}
+@media screen and (max-width: 940px) {
+    .first {
+        height: 565px;
+    }
+    .head > img {
+        width: 351px;
+        height: 391px;
+        position: absolute;
+        bottom: 0;
+        right: 0;
+    }
+    .sign p {
+        font-size: 12px;
+    }
+    .giving {
+        font-size: 30px;
+    }
+    .line {
+        width: 435px;
+        top: 243px;
+    }
+    .congr {
+        top: 276px;
+    }
+    .title a {
+        top: 441px;
+    }
+    .nameCongr span, .success, .redDiplom {
+        font-size: 26px;
+    }
+    .success {
+        width: 80%;
+        margin-left: -40%;
+        top: 95px;
+    }
+    .secondBrown {
+        height: 548px;
+    }
+    .deliveryBrown {
+        height: 538px;
+    }
+    .weAreReady, .youMay {
+        font-size: 18px;
+    }
+    .weSend {
+        width: 575px;
+        font-size: 30px;
+    }
+    .third {
+        height: 585px;
+    }
+    .prizeMe p:nth-child(2) {
+        margin-bottom: 8px;
+      }
+    .prizeMe p:nth-child(2), .prizeMe p:nth-child(3),
+    .prizeMe p:nth-child(5) {
+        font-size: 16px;
+    }
+    .prizeMe p:first-child, .diplomView a {
+        font-size: 20px;
+    }
+    .delivery p, .delivery {
+        font-size: 24px;
+    }
+    .deliveryBrown p:first-child, .deliveryBrown p:nth-child(2),
+    .deliveryBrown p:nth-child(3) {
+        font-size: 24px;
+    }
+    .deliveryBrown p:nth-child(2) {
+        padding-left: 50px;
+    }
+    div.parag {
+        width: 100%;
+        margin-left: -50%; 
+    }
+    div.parag > div {
+        width: 25%;
+    }
+    .attantion + .delivery {
+        width: 90%;
+        margin-bottom: 36px;
+        margin-left: -46%;
+    }
+    .delivery div {
+        width: 90%;
+    }
+    .diplomView {
+        float: left;
+        margin-left: 30px;
+    }
+    .tree {
+        width: 540px;
+        margin-left: -260px;
+    }
+}
+@media screen and (max-width: 890px) {
+    .title {
+        height: 100%;
+    }
+    .tree {
+        width: 490px;
+        margin-left: -230px;
+    }
+    .delivery {
+        width: 98%;
+        margin: 0 0 36px 0;
+    }
+    .blankBord {
+        width: 100%;
+        height: 780px;
+    }
+    .blankBord .blankSm {
+        width: 95%;
+        height: 750px;
+    }
+    .sixth .line {
+        width: 100%;
+    }
+    .sixth .attantion {
+        width: 100%;
+        font-size: 20px;
+        margin-left: -50%;
+    }
+    .sign {
+        width: 435px;
+    }
+    .sign img {
+        right: 0;
+    }
+    .fifthLeft p {
+        margin-left: 10px; 
+    }
+    .fifthLeft p:nth-child(2) {
+        width: 100%;
+    }
+    .fifthRight img {
+        margin-left: 20px;
+    }
+    .withPre label, .blankSm .iwait {
+        margin-left: 60px;
+    }
+    #radioBtns {
+        width: 90%;
+        padding-left: 20px;
+    }
+    #radioBtns + div, .tel, .tel + p + input[type="text"],
+    input[type="text"] + label, .checked {
+        margin-left: 60px;
+    }
+    #radioBtns + div, .tel {
+        width: 250px;
+    }
+    #radioBtns + div {
+        margin-top: 17px;
+    }
+    .tel + p {
+        margin-top: 140px;
+    }
+    .third {
+        height: 655px;
+    }
+    .prizeMe {
+        height: 100%;
+    }
+    .sixth p {
+        width: 100%;
+        margin-left: -50%;
+    }
+    .sixth .line {
+        margin-left: -50%;
+    }
+    #days {
+        padding: 16px 100px 12px 39px;
+    }
+    input[type="tel"] {
+        padding: 16px 40px 12px 27px;
+    }
+    .prizeMe p:nth-child(2) {
+        height: 147px;
+    }
+    .prizeMe p:nth-child(3) {
+        height: 95px;
+    }
+    .prizeMe p:nth-child(4), .prizeMe p:nth-child(5) {
+        height: 129px;
+    }
+    span.yellBackgr {
+        width: 90%;
+    }
+}
+@media screen and (max-width: 775px) {
+    .fifthRight img {
+        width: 280px;
+        height: 200px;
+    }
+    .delivery {
+        width: 98.711%;
+    }
+    .images {
+        width: 100%;
+    }
+    .success {
+        width: 70%;
+        margin-left: -35%;
+    }
+    .redDiplom {
+        top: 169px;
+    }
+    .tree {
+        width: 320px;
+        top: 230px;
+        margin-left: -150px;
+    }
+    .branchLeft, .branchRight {
+        top: 25px;
+    }
+}
+@media screen and (max-width: 414px) {
+    .first {
+        height: 550px;
+    }
+    .title {
+        width: 94.2%;
+        height: 100%;
+        padding-left: 18px;
+    }
+    .note {
+        width: 287px;
+        font-size: 5px;
+        line-height: 6px;
+        margin-top: 8px;
+    }
+    .title img {
+        position: absolute;
+        top: 30px;
+    }
+    .name {
+        font-size: 24px;
+        line-height: 33px;
+        top: 60px;
+    }
+    .forU {
+        width: 94%;
+        top: 100px;
+        font-size: 24px;
+        line-height: 27px;
+    }
+    .line {
+        width: 167px;
+        top: 165px;
+        border: 2px solid #DBAB00;
+    }
+    .congr {
+        width: 176px;
+        height: 148px;
+        font-size: 14px;
+        line-height: 16px;
+        top: 190px;
+    }
+    .title a {
+        padding: 13px;
+        font-weight: bold;
+        font-size: 12px;
+        line-height: 14px;
+        top: 360px;
+        box-shadow: 0px 0px 15px #DD9E23;
+    }
+    .sign {
+        width: 186px;
+        height: 39px;
+    }
+    .sign p {
+        width: 144px;
+        height: 12.91px;
+        font-weight: normal;
+        font-size: 7px;
+        line-height: 4px;
+        right: 25px;
+        top: 15px; 
+    }
+    .sign img {
+        width: 55px;
+        height: 55px;
+        top: -10px;
+        left: -8px;
+    }
+    .star {
+        width: 4.45px;
+        height: 9.11px;
+        margin: 0;
+    }
+    .first > img {
+        width: 174px;
+        height: 283px;
+    }
+    .secondBrown > img {
+        width: 239px;
+        height: 339px;
+    }
+    .second {
+        width: 100%;
+        height: 270px;
+        margin: 0;
+    }
+    .nameCongr {
+        width: 100%;
+        margin: 33px 0 0 -50%;
+    }
+    .nameCongr span {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .success {
+        width: 100%;
+        margin-left: -50%;
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .redDiplom {
+        width: 100%;
+        height: 67px;
+        font-size: 24px;
+        line-height: 33px;
+        margin-left: -50%;
+        top: 149px;
+    }
+    .tree {
+        display: none;
+    }
+    .third {
+        height: 1030px;
+    }
+    .branchLeft {
+        width: 126px;
+        top: 60px;
+        left: 35px;
+        transform: rotate(-40deg);
+        -webkit-transform: rotate(-40deg);
+        -moz-transform: rotate(-40deg);
+        -ms-transform: rotate(-40deg);
+        -o-transform: rotate(-40deg);
+        -webkit-transform: rotate();
+}
+    .branchRight {
+        width: 126px;
+        top: 60px;
+        right: 73px;
+        transform: rotate(40deg);
+        -webkit-transform: rotate(40deg);
+        -moz-transform: rotate(40deg);
+        -ms-transform: rotate(40deg);
+        -o-transform: rotate(40deg);
+        -webkit-transform: rotate();
+}
+    .prizeMe {
+        width: 100%;
+        height: 515px;
+        align-items: center;
+        justify-content: center;
+        margin: 0;
+    }
+    .prizeMe p:first-child {
+        width: 233px;
+        height: 36px;
+        font-size: 12px;
+        line-height: 18px;
+        margin: 0 0 6px 0;
+        text-align: center;
+        font-style: normal;
+        font-weight: bold;
+    }
+    .prizeMe p:nth-child(2) {
+        width: 284px;
+        height: 83px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .prizeMe p:nth-child(3) {
+        width: 284px;
+        height: 67px;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 18px;
+        margin-top: 30px;
+    }
+    .prizeMe p:nth-child(4) {
+        width: 100%;
+        height: 116px;
+        margin: 0;
+    }
+    span.yellBackgr {
+        width: 257px;
+        font-weight: normal;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .prizeMe p:nth-child(5) {
+        width: 284px;
+        height: 80px;
+        margin: 11px 0 0 0;
+        font-size: 12px;
+        line-height: 18px;
+    }
+    .diplomView {
+        width: 100%;
+        margin: 0;
+        justify-content: center;
+        align-items: center;
+    }
+    .diplom, .addition {
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+    }
+    .diplomView a:nth-child(2) {
+        box-shadow: 0px 0px 15px #DD9E23;
+    }
+    .addition {
+        margin: 0;
+    }
+    .delivery {
+        width: 95%;
+        height: 165px;
+        margin-bottom: 30px;
+    }
+    .delivery p {
+        font-size: 24px;
+        line-height: 33px;
+    }
+    .deliveryBrown {
+        height: 631px;
+    }
+    .deliveryBrown p:first-child {
+        width: 110px;
+        height: 34px;
+        margin-left: -55px;
+    }
+    .deliveryBrown p:nth-child(2) {
+        width: 248px;
+        height: 61px;
+        padding: 0;
+        margin-left: -124px;
+        text-align: center;
+    }
+    .deliveryBrown p:nth-child(3) {
+        width: 292px;
+        height: 99px;
+        margin-left: -146px;
+    }   
+    .deliveryBrown p:first-child, .deliveryBrown p:nth-child(2),
+    .deliveryBrown p:nth-child(3) {
+        font-size: 24px;
+        line-height: 30px;
+    }
+    .deliveryBrown span.line {
+        width: 214px;
+        margin-left: -107px;
+    }
+    .deliveryBrown .weAreReady, .deliveryBrown .youMay {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .deliveryBrown .weAreReady {
+        width: 222px;
+        height: 99px;
+    }
+    .deliveryBrown .youMay {
+        width: 179px;
+        height: 98px;
+    }
+    .weSend {
+        width: 291px;
+        height: 101px;
+        font-size: 24px;
+        line-height: 33px;
+        margin-top: 30px;
+    }
+    .fourth .branchLeft, .fourth .branchRight {
+        top: -39.5px;
+    }
+    .fifth {
+        height: 200px;
+    }
+    .fifthLeft {
+        margin-top: 75px;
+    }
+    .fifthLeft p {
+        margin-left: 18px; 
+    }
+    .fifthLeft p:first-child {
+        width: 80%;
+        height: 15px;
+        font-weight: bold;
+        font-size: 14px;
+        line-height: 15px;
+    }
+    .fifthLeft p:nth-child(2) {
+        width: 291px;
+        height: 92px;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 18px;
+        margin-top: 4px;
+    }
+    .fifthRight {
+        display: none;
+    }
+    .fifth + div.delivery {
+        height: 230px;
+    }
+    .fifth + div.delivery p {
+        height: 160px;
+    }
+    .sixth {
+        height: 1070px;
+    }
+    .sixth p {
+        width: 305px;
+        height: 55px;
+        font-size: 24px;
+        line-height: 30px;
+        top: 22px;
+        text-align: left;
+        left: 0;
+        margin-left: 13px;
+    }
+    .sixth .line {
+        width: 270px;
+        margin-left: -135px;
+        top: 100px;
+    }
+    .images {
+        width: 60px;
+        height: 670px;
+        top: 142px;
+        left: 0;
+        margin-left: 0;
+        flex-direction: column;
+        justify-content: start;
+    }
+    .images img:nth-child(3), .images img:nth-child(5),
+    .images img:nth-child(7) {
+        margin-left: 25px;
+    }
+    .images img:nth-child(2), .images img:nth-child(4),
+    .images img:nth-child(6) {
+        display: none;
+    }
+    .images img:first-child {
+        margin-bottom: 30px;
+    }
+    .images img:nth-child(3) {
+        margin-bottom: 70px;
+    }
+    .images img:nth-child(7) {
+        position: absolute;
+        bottom: 0;
+        margin-bottom: 55px;
+    }
+    .sixth > div.parag {
+        width: 120px;
+        height: 670px;
+        top: 142px;
+        margin-left: 0;
+        left: 80px;
+        flex-direction: column;
+        justify-content: start;
+    }
+    .num {
+        font-size: 14px;
+        line-height: 16px;
+        color: #FFFFFF;
+    }
+    .num::after {
+        content: ". ";
+    }
+    .parag > div:first-child {
+        width: 192px;
+        height: 83px;
+        margin-bottom: 35px;
+    }
+    .parag > div:nth-child(2) {
+        width: 190px;
+        height: 100px;
+        margin-bottom: 60px;
+    }
+    .parag > div:nth-child(3) {
+        width: 181px;
+        height: 132px;
+    }
+    .parag > div:nth-child(4) {
+        width: 188px;
+        height: 105px;
+        position: absolute;
+        bottom: 0;
+        margin-bottom: 15px;
+    }
+    .sixth .attantion {
+        width: 289px;
+        height: 69px;
+        border: 1px solid #DD9E23;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 11px;
+        line-height: 12px;
+        text-align: center;
+        left: 50%;
+        margin-left: -144.5px;
+        top: 580px;
+        padding-top: 10px;
+    }
+    .sixth .delivery {
+        width: 94.5%;
+        height: 164px;
+        left: 0;
+        margin-left: 0;
+    }
+    .sixth .delivery div {
+        width: 309px;
+        height: 107px;
+        font-size: 24px;
+        line-height: 27px;
+    }
+    .blankBord {
+        height: 836px;
+    }
+    .blankBord .blankSm {
+        width: 96.5%;
+        height: 100%;
+        background: #FFFCEB;
+    }
+    .blankSm > .titleBlank {
+        width: 100%;
+        height: 26px;
+        font-size: 22px;
+        line-height: 23px;
+        margin: 20px 0;
+    }
+    .blankSm .withPre {
+        height: 67px;
+        font-size: 14px;
+        line-height: 18px;
+        margin-bottom: 20px;
+    }
+    .withPre label {
+        width: inherit;
+        margin-left: 14px;
+        margin-bottom: 20px;
+        justify-content: start;
+    }
+    .withPre input[type="checkbox"] + i {
+        margin-right: 16px;
+    }
+    .blankSm .iwait {
+        width: 256px;
+        height: 47px;
+        font-size: 18px;
+        line-height: 23px;
+        margin: 0 0 20px 49px;
+    }
+    #radioBtns label {
+        width: 250px;
+        justify-content: start;
+        margin-bottom: 14px;
+    }
+    input[type="radio"] + i {
+        margin-right: 5px;
+    }
+    .dayofweek {
+        width: 253px;
+        height: 21px;
+        font-size: 16px;
+        line-height: 21px;
+    }
+    #radioBtns + div {
+        margin-left: 49px;
+    }
+    .tel {
+        margin: 15px 0 0 49px;
+        float: left;
+    }
+    .tel + p {
+        width: 263px;
+        height: 20px;
+        font-size: 15px;
+        line-height: 19px;
+        margin: 240px 0 7px 49px;
+        z-index: 1;
+    }
+    input[type="tel"] {
+        padding: 14px 30px 12px 25px;
+    }
+    .tel + p + input[type="text"] {
+        width: 230px;
+        padding: 12px 0 5px 21px;
+        margin-left: 49px;
+    }
+    .tel + p + input[type="text"]::placeholder {
+        font-size: 9px;
+        line-height: 12px;
+        text-align: center;
+    }
+    input[type="text"] + label, .checked {
+        width: 95%;
+        margin-top: 15px;
+        margin-left: 14px;
+        justify-content: start;
+    }
+    input[type="text"] + label p, .checked p {
+        width: 255px;
+        height: 44px;
+        font-size: 12px;
+        line-height: 15px;
+    }
+    input[type="checkbox"] + i {
+        margin-right: 16px;
+    }
+    #seventh > a + p {
+        width: 100%;
+        height: 121px;
+        font-size: 18px;
+        line-height: 25px;
+        margin-bottom: 15px;
+    }
+    #seventh p.annot {
+        width: 281.62px;
+        height: 18px;
+        font-weight: 500;
+        font-size: 5px;
+        line-height: 6px;
+        margin-bottom: 5px;
+    }
+    #seventh a {
+        box-shadow: 0px 0px 15px #DD9E23;
+    }
+}
