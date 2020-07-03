@@ -44,7 +44,6 @@ a {
 .niche-title {
     font-family: 'Oswald-Medium';
     font-size: 11.25em;
-    margin-left: -.05em;
     background: linear-gradient(to right, #ffffff, #444444);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -56,10 +55,6 @@ a {
 .prog, .niche-title, .choose-model, .to-get {
     z-index: 1;
 }
-
-
-
-/*----------------------------- Форма -----------------------------*/
 .to-get {
     width: 24em;
     display: flex;
@@ -142,7 +137,6 @@ input[type="submit"]:hover {
     margin-top: 1.188em;
     color: #868686;
 }
-/*----------------------------- КОНЕЦ Формы -----------------------------*/
 .btn, .arrow {
     position: absolute;
     left: 50%;
@@ -180,7 +174,6 @@ input[type="submit"]:hover {
     bottom: 17.5em;
     margin-left: -0.469em;
 }
-/*----------------------------- Навигация -----------------------------*/
 .nav {
     display: flex;
     flex-direction: column;
@@ -235,8 +228,6 @@ input[type="submit"]:hover {
 .nav a.list-active::after {
     border: .15em solid #ffffff;
 }
-/*----------------------------- КОНЕЦ Навигации -----------------------------*/
-
 #video {
     display: flex;
     flex-direction: column;
@@ -271,7 +262,7 @@ input[type="submit"]:hover {
     margin-bottom: 1em;
 }
 iframe {
-    height: auto;
+    height: 660px;
     margin: 3em 0;
 }
 #video>.arrow {
