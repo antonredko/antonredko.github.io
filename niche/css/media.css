@@ -307,7 +307,7 @@
 }
 @media screen and (max-width: 445px) {
     #niche {
-        height: 820px;
+        height: 870px;
         background-position: 8em 11.5em, top left;
     }
     .niche-title {
@@ -325,7 +325,7 @@
         right: -9em;
     }
     input {
-        width: 75%;
+        width: 68%;
     }
     input[type="submit"] {
         width: 116%;
@@ -349,7 +349,7 @@
 }
 @media screen and (max-width: 375px) {
     #niche {
-        height: 750px;
+        height: 800px;
         background-position: 7.45em 10em, top left;
     }
     .niche-title {
@@ -364,7 +364,7 @@
         right: -8.2em;
     }
     input {
-        width: 65%;
+        width: 62%;
     }
     input[name="name"], input[name="email"], input[name="tel"] {
         background-size: 1.1em;
