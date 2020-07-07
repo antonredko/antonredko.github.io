@@ -307,7 +307,7 @@
 }
 @media screen and (max-width: 445px) {
     #niche {
-        height: 870px;
+        height: 820px;
         background-position: 8em 11.5em, top left;
     }
     .niche-title {
@@ -325,7 +325,7 @@
         right: -9em;
     }
     input {
-        width: 68%;
+        width: 75%;
     }
     input[type="submit"] {
         width: 116%;
