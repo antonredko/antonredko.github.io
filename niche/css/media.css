@@ -120,7 +120,6 @@
         height: 800px;
     }
     .alex {
-        width: 80%;
         right: -10em;
     }
     #video {
@@ -143,15 +142,18 @@
 }
 @media screen and (max-width: 640px) {
     #niche {
-        height: 950px;
+        height: 1020px;
+        background: url(../img/polygon-niche.png) no-repeat, 
+                url(../img/niche-bgr-mobile.png) no-repeat;
+        background-position: 8.8em 14.625em, top left;
     }
     .alex {
-        width: 90%;
         top: 10.375em;
-        right: -13.2em;
+        right: -14em;
     }
     .title-and-form {
         width: 90%;
+        margin-left: .8em;
     }
     .niche-title {
         margin-bottom: .85em;
@@ -159,18 +161,36 @@
     }
     .to-get {
         width: 90%;
+        margin-left: -1em;
     }
     input {
-        width: 90%;
+        width: 80%;
+    }
+    input::placeholder {
+        font-size: 1.25em;
+    }
+    input[type='text'] {
+        padding: 1.625em 5.4375em;
+    }
+    input[name="name"], input[name="email"], input[name="tel"] {
+        background-size: 1.25em;
+        background-position-x: 2.563em;
     }
     input[type="submit"] {
         width: 110%;
+        font-size: 1.5em;
+        border-radius: 1em;
+        -webkit-border-radius: 1.5em;
+        -moz-border-radius: 1.5em;
+        -ms-border-radius: 1.5em;
+        -o-border-radius: 1.5em;
     }
     #video {
         width: 90%;
         padding: 1em;
     }
     .efforts {
+        width: 90%;
         font-size: 1.5em;
     }
     .want-to-know {
@@ -178,66 +198,31 @@
     }
     iframe {
         width: 100%;
-        height: 325px;
+        height: 324px;
     }
 }
 @media screen and (max-width: 600px) {
+    #niche {
+        height: 1000px;
+        background-position: 6.8em 13em, top left;
+    }
+    .alex {
+        width: 90%;
+        top: 9em;
+        right: -12em;
+    }
     .niche-title {
         font-size: 10em;
+        margin-bottom: .95em;
     }
-}
-@media screen and (max-width: 550px) {
-    #niche {
-        height: 900px;
-    }
-    .niche-title {
-        font-size: 9em;
-        margin-bottom: 1em;
-    }
-    .alex {
-        top: 8.5em;
-        right: -10.9em;
-    }
-    .title-and-form {
-        left: 1em;
+    .choose-model {
+        font-size: 1.6em;
     }
     input {
-        width: 85%;
-    }
-    input[type="submit"] {
-        width: 110%;
-        padding: .5em 1em;
+        width: 78%;
     }
     iframe {
-        width: 100%;
-        height: 275px;
-    }
-}
-@media screen and (max-width: 472px) {
-    #video {
-        width: 85%;
-    }
-    input[type='text'] {
-        padding: 1em 3em;
-    }
-}
-@media screen and (max-width: 445px) {
-    #niche {
-        height: 780px;
-    }
-    .niche-title {
-        font-size: 7em;
-        margin-bottom: 0;
-    }
-    .prog {
-        margin-bottom: .05em;
-    }
-    .alex {
-        top: 6.5em;
-        right: -8.9em;
-    }
-    .to-get {
-        width: 88%;
+        height: 304px;
     }
     .efforts {
         font-size: 1.25em;
@@ -245,29 +230,168 @@
     .want-to-know {
         font-size: 1em;
     }
+}
+@media screen and (max-width: 550px) {
+    #niche {
+        height: 930px;
+        background-position: 4.4em 11.5em, top left;
+    }
+    .niche-title {
+        font-size: 8.5em;
+        margin-bottom: 1em;
+    }
+    .alex {
+        top: 7.6em;
+        right: -9.7em;
+    }
+    .choose-model {
+        font-size: 1.5em;
+    }
+    input {
+        width: 75%;
+    }
     input[type="submit"] {
+        font-size: 1.25em;
+    }
+    iframe {
+        height: 225px;
+    }
+}
+@media screen and (max-width: 472px) {
+    #niche {
+        height: 900px;
+        background-position: 8.7em 12em, top left;
+        background-size: contain, cover;
+    }
+    .alex {
+        top: 8.7em;
+        right: -9.8em;
+    }
+    .prog {
+        margin-bottom: -30px;
+    }
+    .niche-title {
+        font-size: 8em;
+    }
+    .title-and-form {
+        margin-left: .3em;
+    }
+    .choose-model {
+        font-size: 1.3em;
+    }
+    .to-get {
+        width: 86%;
+        margin-left: -1em;
+    }
+    input {
+        width: 70%;
+    }
+    input[type="submit"] {
+        width: 115%;
+        font-size: 1.15em;
+        padding: 1em 1em;
+    }
+    #video {
+        width: 87%;
+        margin-top: -.5em;
+    }
+    iframe {
+        height: 260px;
+    }
+    .efforts {
+        font-size: 1em;
+    }
+    .want-to-know {
         font-size: .9em;
+    }
+}
+@media screen and (max-width: 445px) {
+    #niche {
+        height: 870px;
+        background-position: 8em 11.5em, top left;
+    }
+    .niche-title {
+        font-size: 7.5em;
+        margin-bottom: .85em;
+    }
+    .title-and-form {
+        margin-left: 0;
+    }
+    .choose-model {
+        font-size: 1.19em;
+    }
+    .alex {
+        top: 8.2em;
+        right: -9em;
+    }
+    input {
+        width: 68%;
+    }
+    input[type="submit"] {
+        width: 116%;
+    }
+    .to-get {
+        margin-left: -.9em;
+    }
+    #video {
+        width: 89%;
+        box-shadow: 0 0 0 .5em rgba(255, 0, 0, 0.5);
+    }
+    .efforts {
+        font-size: .9em;
+    }
+    iframe {
+        height: 220px;
+    }
+    .want-to-know {
+        font-size: .8em;
     }
 }
 @media screen and (max-width: 375px) {
     #niche {
-        height: 700px;
+        height: 800px;
+        background-position: 7.45em 10em, top left;
     }
-    .to-get {
-        width: 82%;
+    .niche-title {
+        font-size: 6.45em;
+        margin-bottom: .75em;
     }
-    input[type="submit"] {
-        width: 120%;
-        font-size: .7em;
-        padding: .25em .5em;
+    .choose-model {
+        font-size: 1em;
+    }
+    .alex {
+        top: 7.5em;
+        right: -8.2em;
+    }
+    input {
+        width: 62%;
+    }
+    input[name="name"], input[name="email"], input[name="tel"] {
+        background-size: 1.1em;
+        background-position-x: 2.2em;
     }
     input[type='text'] {
-        margin-bottom: 10px;
+        padding: 1.625em 5em;
     }
-    .only-this-week {
-        margin-top: .9em;
+    input::placeholder {
+        font-size: 1.2em;
+    }
+    input[type="submit"] {
+        width: 113%;
+        font-size: 1em;
+    }
+    .to-get {
+        width: 88.5%;
+        margin-left: -1.15em;
+        padding: 1.5em 1.5em 1.1em 1.5em;
+    }
+    .efforts {
+        font-size: .8em;
     }
     iframe {
-        height: 300px;
+        height: 190px;
+    }
+    .want-to-know {
+        font-size: .7em;
     }
 }

@@ -18,8 +18,10 @@ a {
 #niche {
     position: relative;
     height: 1186px;
-    background: url(../img/niche-bgr.png);
-    background-position: center center;
+    background: url(../img/polygon-niche.png) no-repeat, 
+                url(../img/niche-bgr.png);
+    background-size: auto, cover;
+    background-position: 34.35em 5.625em, top left;
     overflow: hidden;
 }
 .alex {
@@ -113,7 +115,8 @@ input[type="submit"], #niche .btn {
     background-image: -webkit-linear-gradient(90deg, #a00200 0%, red 100%);
     background-image: -moz-linear-gradient(90deg, #a00200 0%, red 100%);
     background-image: -ms-linear-gradient(90deg, #a00200 0%, red 100%);
-    box-shadow: 0 .2em 0 0 #810000;
+    box-shadow: 0 .2em 0 0 #810000,
+                0 0 .5em #ff0000;
 }
 input[type="submit"] {
     width: 100%;
@@ -125,9 +128,6 @@ input[type="submit"] {
     -moz-border-radius: 2.5em;
     -ms-border-radius: 2.5em;
     -o-border-radius: 2.5em;
-}
-input[type="submit"]:hover {
-    box-shadow: 0 0 1em #ff0000;
 }
 .only-this-week {
     font-family: 'Montserrat-Light';
@@ -264,6 +264,11 @@ input[type="submit"]:hover {
 iframe {
     height: 660px;
     margin: 3em 0;
+    border-radius: .6em;
+    -webkit-border-radius: .6em;
+    -moz-border-radius: .6em;
+    -ms-border-radius: .6em;
+    -o-border-radius: .6em;
 }
 #video>.arrow {
     bottom: 1.5em;
