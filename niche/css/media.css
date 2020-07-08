@@ -441,6 +441,11 @@
         margin-left: -1.15em;
         padding: 1.5em 1.5em 1.1em 1.5em;
     }
+    #video {
+        width: 85%;
+        height: 260px;
+        padding: .5em;
+    }
     .efforts {
         font-size: .8em;
     }
@@ -474,7 +479,6 @@
     #video {
         width: 86%;
         height: 250px;
-        padding: .5em;
     }
     .efforts {
         font-size: .7em;
