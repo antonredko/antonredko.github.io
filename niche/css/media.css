@@ -443,7 +443,7 @@
     }
     #video {
         width: 87%;
-        height: 300px;
+        height: 260px;
         padding: .5em;
     }
     .efforts {
@@ -451,7 +451,7 @@
     }
     iframe {
         height: 190px;
-        margin: .2em;
+        margin: .5em 0;
     }
     .want-to-know {
         font-size: .7em;
