@@ -427,7 +427,6 @@
     }
     input[type='text'] {
         padding: 1.625em 5em;
-        align-self: center;
     }
     input::placeholder {
         font-size: 1.2em;
@@ -451,6 +450,7 @@
     }
     iframe {
         height: 190px;
+        margin: 0;
     }
     .want-to-know {
         font-size: .7em;
@@ -485,7 +485,6 @@
     }
     iframe {
         height: 160px;
-        margin: 0;
     }
     .want-to-know {
         font-size: .6em;
