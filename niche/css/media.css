@@ -455,6 +455,9 @@
     .want-to-know {
         font-size: .7em;
     }
+    #video>.arrow {
+        bottom: .5em;
+    }
 }
 @media screen and (max-width: 321px) {
     #niche {
