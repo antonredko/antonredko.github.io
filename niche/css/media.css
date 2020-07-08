@@ -1,3 +1,8 @@
+@media screen and (max-width: 1920px) {
+    #niche {
+        background-position: 57em 5.625em, top left;
+    }
+}
 @media screen and (max-width: 1660px) {
     #niche {
         height: 1100px;
@@ -100,6 +105,14 @@
         bottom: 1em;
     }
 }
+@media screen and (max-width: 1278px) {
+    #niche {
+        background-position: 21em 5.625em, top left;
+    }
+    #video {
+        width: 75%;
+    }
+}
 @media screen and (max-width: 1156px) {
     .alex {
         right: -5em;
@@ -108,22 +121,32 @@
         display: none;
     }
     #video {
-        width: 80%;
-        margin-top: 0;
+        width: 90%;
+        margin-top: -3em;
     }
     .title-and-form {
         width: 50%;
     }
 }
+@media screen and (max-width: 1024px) {
+    #niche {
+        background-position: 14em 5.625em, bottom center;
+    }
+    #video {
+        width: 93%;
+    }
+}
 @media screen and (max-width: 964px) {
     #niche {
-        height: 800px;
+        height: 900px;
+        background-position: 18em 5.625em, bottom right;
     }
     .alex {
         right: -10em;
     }
     #video {
         width: 90%;
+        margin-top: -2em;
     }
 }
 @media screen and (max-width: 884px) {
@@ -138,6 +161,26 @@
     }
     .title-and-form {
         top: 2em;
+    }
+}
+@media screen and (max-width: 736px) {
+    #niche {
+        height: 850px;
+        background-position: 8.5em 14.625em, bottom right;
+    }
+    .alex {
+        right: -15em;
+    }
+}
+@media screen and (max-width: 667px) {
+    #niche {
+        background-position: 5.5em 14.625em, bottom right;
+    }
+    .alex {
+        right: -19em;
+    }
+    #video {
+        height: 360px;
     }
 }
 @media screen and (max-width: 640px) {
@@ -347,6 +390,17 @@
         font-size: .8em;
     }
 }
+@media screen and (max-width: 414px) {
+    .niche-title {
+        font-size: 7.1em;
+    }
+    input {
+        width: 64.5%;
+    }
+    input[type="submit"] {
+        font-size: 1.1em;
+    }
+}
 @media screen and (max-width: 375px) {
     #niche {
         height: 800px;
@@ -393,5 +447,42 @@
     }
     .want-to-know {
         font-size: .7em;
+    }
+}
+@media screen and (max-width: 321px) {
+    #niche {
+        height: 760px;
+    }
+    .alex {
+        top: 6.9em;
+        right: -8.1em;
+    }
+    .niche-title {
+        font-size: 5.8em;
+    }
+    .to-get {
+        margin-left: -1.3em;
+    }
+    input {
+        width: 55%;
+    }
+    input[type="submit"] {
+        font-size: .8em;
+    }
+    #video {
+        width: 86%;
+        height: 250px;
+        padding: .5em;
+    }
+    .efforts {
+        font-size: .7em;
+    }
+    iframe {
+        height: 160px;
+        margin: 0;
+    }
+    .want-to-know {
+        font-size: .6em;
+        margin-bottom: 3em;
     }
 }
