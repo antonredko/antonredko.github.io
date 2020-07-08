@@ -427,6 +427,7 @@
     }
     input[type='text'] {
         padding: 1.625em 5em;
+        align-self: center;
     }
     input::placeholder {
         font-size: 1.2em;
