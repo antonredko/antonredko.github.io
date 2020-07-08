@@ -191,8 +191,8 @@
         background-position: 8.8em 14.625em, top left;
     }
     .alex {
-        top: 10.375em;
-        right: -14em;
+        top: 9em;
+        right: -21.3em;
     }
     .title-and-form {
         width: 90%;
@@ -401,9 +401,9 @@
         font-size: 1.1em;
     }
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 376px) {
     #niche {
-        height: 800px;
+        height: 780px;
         background-position: 7.45em 10em, top left;
     }
     .niche-title {
@@ -418,7 +418,7 @@
         right: -8.2em;
     }
     input {
-        width: 62%;
+        width: 67%;
     }
     input[name="name"], input[name="email"], input[name="tel"] {
         background-size: 1.1em;
