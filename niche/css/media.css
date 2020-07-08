@@ -204,7 +204,6 @@
     }
     .to-get {
         width: 90%;
-        /* margin-left: -1em; */
         align-self: center;
     }
     input {
@@ -231,7 +230,7 @@
     }
     #video {
         width: 90%;
-        height: 330px;
+        height: 300px;
         padding: 1em;
     }
     .efforts {
