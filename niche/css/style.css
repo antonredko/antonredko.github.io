@@ -9,7 +9,7 @@ html, body, #niche {
 }
 a {
     text-decoration: none;
-    color: #868686;
+    color: #ffffff;
 }
 .choose-model, input[type="submit"], 
 #niche .btn, .list-active, .efforts, .want-to-know {
@@ -41,7 +41,7 @@ a {
     font-family: 'Montserrat-Regular';
     font-size: 1.5em;
     color: #ff0000;
-    margin-bottom: -55px;
+    margin-bottom: -25px;
     margin-left: 5px;
 }
 .niche-title {
@@ -50,12 +50,13 @@ a {
     background: linear-gradient(to right, #ffffff, #444444);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    margin-bottom: .14em;
 }
 .choose-model {
     font-family: 'Montserrat-Medium';
     font-size: 1.75em;
+    line-height: 40px;
     margin-left: .21em;
-    padding-bottom: 15px;
 }
 .prog, .niche-title, .choose-model, .to-get {
     z-index: 1;
@@ -66,7 +67,7 @@ a {
     flex-direction: column;
     margin-top: 38px;
     margin-left: 9px;
-    padding: 2em 2em 1.25em 2em;
+    padding: 2.5em 2em 1.25em 2em;
     background: #313131;
     border-radius: 1em;
     -webkit-border-radius: 1em;
@@ -97,9 +98,9 @@ input[type='text'] {
 input[name='tel'] {
     margin-bottom: 1.625em;
 }
-input::placeholder {
+input[type="text"]::placeholder {
     font-size: 1em;
-    color: #74767b;
+    color: #ffffff;
 }
 input[name="name"] {
     background-image: url(../img/user_male.svg);
@@ -181,17 +182,21 @@ input[type="submit"] {
     margin-left: -0.469em;
 }
 .nav {
+    height: 398.5px;
     display: flex;
     flex-direction: column;
     position: fixed;
-    top: 7.7em;
+    top: 8.45em;
     right: 2.7em;
     text-align: right;
 }
 .nav li {
+    font-size: 14px;
+    line-height: 30px;
     font-family: 'Montserrat-Light';
     list-style: none;
-    line-height: 1.9em;
+    color: #ffffff;
+    letter-spacing: -.1px;
 }
 .nav .vertical-line {
     width: inherit;
@@ -200,12 +205,7 @@ input[type="submit"] {
 }
 .nav li a {
     position: relative;
-    padding-right: 1.3em;
-    transition: 1s;
-    -webkit-transition: 1s;
-    -moz-transition: 1s;
-    -ms-transition: 1s;
-    -o-transition: 1s;
+    padding-right: 1em;
 }
 .nav li a:hover {
     text-transform: uppercase;
@@ -224,6 +224,7 @@ input[type="submit"] {
 }
 .list-active {
     font-family: 'Montserrat-Bold';
+    color: #ffffff;
 }
 .nav a.list-active::after {
     border: .15em solid #ffffff;
